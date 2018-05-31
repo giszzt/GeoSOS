@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9EFEC06B-3F35-4AFE-AA64-98CC44C39954}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GIS.AddIns.Common</RootNamespace>
+    <AssemblyName>GIS.AddIns.Common</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\..\OutPut\AddIns\GIS\Common\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DotSpatial.Controls">
+      <HintPath>..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.Controls.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Data">
+      <HintPath>..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.GeoAPI">
+      <HintPath>..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.GeoAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.NetTopologySuite">
+      <HintPath>..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.NetTopologySuite.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.NTSExtension">
+      <HintPath>..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.NTSExtension.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Projections">
+      <HintPath>..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.Projections.dll</HintPath>
+    </Reference>
+    <Reference Include="DotSpatial.Symbology">
+      <HintPath>..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.Symbology.dll</HintPath>
+    </Reference>
+    <Reference Include="FrameWork">
+      <HintPath>..\..\..\..\OutPut\Library\FrameWork\FrameWork.dll</HintPath>
+    </Reference>
+    <Reference Include="GIS.Common">
+      <HintPath>..\..\..\..\OutPut\Library\GIS\GIS.Common.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="GIS.FrameWork">
+      <HintPath>..\..\..\..\OutPut\Library\GIS\GIS.FrameWork.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.Core">
+      <HintPath>..\..\..\..\OutPut\Library\SharpDevelop\ICSharpCode.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.Core.Presentation">
+      <HintPath>..\..\..\..\OutPut\Library\SharpDevelop\ICSharpCode.Core.Presentation.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.Core.WinForms">
+      <HintPath>..\..\..\..\OutPut\Library\SharpDevelop\ICSharpCode.Core.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddLayerCommand.cs" />
+    <Compile Include="FullExtentCommand.cs" />
+    <Compile Include="IdentifyCommand.cs" />
+    <Compile Include="MeasureCommand\MapFunctionMeasure.cs" />
+    <Compile Include="MeasureCommand\MeasureCommand.cs" />
+    <Compile Include="MeasureCommand\MeasureDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MeasureCommand\MeasureMode.cs" />
+    <Compile Include="PanCommand.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ROI\ClearROICommand.cs" />
+    <Compile Include="ROI\ROISymbolCommand.cs" />
+    <Compile Include="ROI\ROILineCommand.cs" />
+    <Compile Include="ROI\ROIPointCommand.cs" />
+    <Compile Include="ROI\ROIPolygonCommand.cs" />
+    <Compile Include="ROI\ROIRectangleCommand.cs" />
+    <Compile Include="ZoomInCommand.cs" />
+    <Compile Include="ZoomOutCommand.cs" />
+    <Compile Include="ZoomToNextCommand.cs" />
+    <Compile Include="ZoomToPreviousCommand.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="GIS.AddIns.Common.addin">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
+    <None Include="MeasureCommand\Resources\measure_32x32.png" />
+    <None Include="MeasureCommand\Resources\measure_16x16.png" />
+    <None Include="MeasureCommand\Resources\Line.png" />
+    <None Include="MeasureCommand\Resources\Area.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MeasureCommand\MeasureDialog.de-DE.resx">
+      <DependentUpon>MeasureDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MeasureCommand\MeasureDialog.it-IT.resx">
+      <DependentUpon>MeasureDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MeasureCommand\MeasureDialog.pt-BR.resx">
+      <DependentUpon>MeasureDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MeasureCommand\MeasureDialog.resx">
+      <DependentUpon>MeasureDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MeasureCommand\MeasureDialog.zh-CN.resx">
+      <DependentUpon>MeasureDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

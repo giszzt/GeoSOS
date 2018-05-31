@@ -1,0 +1,53 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\AddIns\GIS\GIS.AddIns.Attributes\obj\Debug\GIS.AddIns.Attributes.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\AddIns\GIS\Attributes\GIS.AddIns.Attributes.addin
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\AddIns\GIS\Attributes\GIS.AddIns.Attributes.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\AddIns\GIS\Attributes\GIS.AddIns.Attributes.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\AddIns\GIS\GIS.AddIns.Attributes\obj\Debug\GIS.AddIns.Attributes.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\AddIns\GIS\GIS.AddIns.Attributes\obj\Debug\GIS.AddIns.Attributes.pdb
+C:\Users\Administrator\Desktop\GISProgram\Output\AddIns\GIS\Attributes\GIS.AddIns.Attributes.addin
+C:\Users\Administrator\Desktop\GISProgram\Output\AddIns\GIS\Attributes\GIS.AddIns.Attributes.dll
+C:\Users\Administrator\Desktop\GISProgram\Output\AddIns\GIS\Attributes\GIS.AddIns.Attributes.pdb
+C:\Users\Administrator\Desktop\GISProgram\Code\AddIns\GIS.AddIns.Attributes\obj\Debug\GIS.AddIns.Attributes.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GISProgram\Code\AddIns\GIS.AddIns.Attributes\obj\Debug\GIS.AddIns.Attributes.dll
+C:\Users\Administrator\Desktop\GISProgram\Code\AddIns\GIS.AddIns.Attributes\obj\Debug\GIS.AddIns.Attributes.pdb
+X:\系统开发\GISProgam6.7\GISProgram\Output\AddIns\GIS\Attributes\GIS.AddIns.Attributes.addin
+X:\系统开发\GISProgam6.7\GISProgram\Output\AddIns\GIS\Attributes\GIS.AddIns.Attributes.dll
+X:\系统开发\GISProgam6.7\GISProgram\Output\AddIns\GIS\Attributes\GIS.AddIns.Attributes.pdb
+X:\系统开发\GISProgam6.7\GISProgram\Code\AddIns\GIS.AddIns.Attributes\obj\Debug\GIS.AddIns.Attributes.dll
+X:\系统开发\GISProgam6.7\GISProgram\Code\AddIns\GIS.AddIns.Attributes\obj\Debug\GIS.AddIns.Attributes.pdb
+X:\系统开发\GISProgam6.7\GISProgram\Code\AddIns\GIS.AddIns.Attributes\obj\Debug\GIS.AddIns.Attributes.csprojResolveAssemblyReference.cache
+X:\系统开发\GISProgram6.13\GISProgram\Output\AddIns\GIS\Attributes\GIS.AddIns.Attributes.addin
+X:\系统开发\GISProgram6.13\GISProgram\Output\AddIns\GIS\Attributes\GIS.AddIns.Attributes.dll
+X:\系统开发\GISProgram6.13\GISProgram\Output\AddIns\GIS\Attributes\GIS.AddIns.Attributes.pdb
+X:\系统开发\GISProgram6.13\GISProgram\Code\AddIns\GIS.AddIns.Attributes\obj\Debug\GIS.AddIns.Attributes.dll
+X:\系统开发\GISProgram6.13\GISProgram\Code\AddIns\GIS.AddIns.Attributes\obj\Debug\GIS.AddIns.Attributes.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Attributes\obj\Debug\GIS.AddIns.Attributes.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\bin\AddIns\GIS\Attributes\GIS.AddIns.Attributes.addin
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\bin\AddIns\GIS\Attributes\GIS.AddIns.Attributes.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\bin\AddIns\GIS\Attributes\GIS.AddIns.Attributes.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Attributes\obj\Debug\GIS.AddIns.Attributes.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\GIS\Attributes\GIS.AddIns.Attributes.addin
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\GIS\Attributes\GIS.AddIns.Attributes.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\GIS\Attributes\GIS.AddIns.Attributes.pdb
+E:\app\gis\1.0.1.20160801_Alpha\OutPut\AddIns\GIS\Attributes\GIS.AddIns.Attributes.addin
+E:\app\gis\1.0.1.20160801_Alpha\OutPut\AddIns\GIS\Attributes\GIS.AddIns.Attributes.dll
+E:\app\gis\1.0.1.20160801_Alpha\OutPut\AddIns\GIS\Attributes\GIS.AddIns.Attributes.pdb
+E:\app\gis\1.0.1.20160801_Alpha\Code\AddIns\GIS\GIS.AddIns.Attributes\obj\Debug\GIS.AddIns.Attributes.dll
+E:\app\gis\1.0.1.20160801_Alpha\Code\AddIns\GIS\GIS.AddIns.Attributes\obj\Debug\GIS.AddIns.Attributes.pdb
+E:\app\gis\1.0.1.20160801_Alpha\OutPut\AddIns\GIS\Attributes\ShowOnlySelectedRowsCommand.cs
+E:\app\gis\1.0.1.20160801_Alpha\Code\AddIns\GIS\GIS.AddIns.Attributes\obj\Debug\GIS.AddIns.Attributes.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\GIS\Attributes\ShowOnlySelectedRowsCommand.cs
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\GIS\Attributes\GIS.AddIns.Attributes.addin
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\GIS\Attributes\ShowOnlySelectedRowsCommand.cs
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\GIS\Attributes\GIS.AddIns.Attributes.dll
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\GIS\Attributes\GIS.AddIns.Attributes.pdb
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Attributes\obj\Debug\GIS.AddIns.Attributes.csprojResolveAssemblyReference.cache
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Attributes\obj\Debug\GIS.AddIns.Attributes.dll
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Attributes\obj\Debug\GIS.AddIns.Attributes.pdb
+D:\Git\GeoSOS\OutPut\AddIns\GIS\Attributes\GIS.AddIns.Attributes.addin
+D:\Git\GeoSOS\OutPut\AddIns\GIS\Attributes\ShowOnlySelectedRowsCommand.cs
+D:\Git\GeoSOS\OutPut\AddIns\GIS\Attributes\GIS.AddIns.Attributes.dll
+D:\Git\GeoSOS\OutPut\AddIns\GIS\Attributes\GIS.AddIns.Attributes.pdb
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Attributes\obj\Debug\GIS.AddIns.Attributes.csprojResolveAssemblyReference.cache
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Attributes\obj\Debug\GIS.AddIns.Attributes.dll
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Attributes\obj\Debug\GIS.AddIns.Attributes.pdb

@@ -1,0 +1,16 @@
+﻿<StartUpProperties>
+  <CoreProperties.UILanguage value="en" />
+  <Properties name="DisplayBindingService">
+    <Array name="ExternalProcesses" />
+  </Properties>
+  <Properties name="ErrorListPad" />
+  <Properties name="RecentOpen">
+    <Array name="Files" />
+    <Array name="Projects" />
+  </Properties>
+  <SharpDevelop.LoadPrevProjectOnStartup value="False" />
+  <Properties name="WorkbenchMemento">
+    <Bounds value="0,0,0,0" />
+    <WindowState value="Maximized" />
+  </Properties>
+</StartUpProperties>

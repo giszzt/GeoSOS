@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="GB2312"?>
+<ConcertRules>
+  <Rule name="土规、林规冲突">
+    <Conflict name="土规林规冲突">
+      <ConcertRule name="1">
+        <SQL>
+        </SQL>
+        <SpatialRigon>C:\多规\YL.gdb\SpatialRigon</SpatialRigon>
+        <IsSDE>False</IsSDE>
+        <Fields>处理意见,处理意见,尊重土地规划1;备注,备注,;用地类型,用地类型,基本农田;1,1,1</Fields>
+        <Explanation>3a|3c|a|d</Explanation>
+        <Model>NewProject5.nspj</Model>
+      </ConcertRule>
+      <ConcertRule name="2">
+        <SQL>2</SQL>
+        <SpatialRigon>2</SpatialRigon>
+        <IsSDE>False</IsSDE>
+        <Fields>DLTB,3,基本农田;1,2,4</Fields>
+        <Explanation>2</Explanation>
+        <Model>
+        </Model>
+      </ConcertRule>
+      <ConcertRule name="a">
+        <SQL>1</SQL>
+        <SpatialRigon>1</SpatialRigon>
+        <IsSDE>False</IsSDE>
+        <Fields>
+        </Fields>
+        <Explanation>aa</Explanation>
+        <Model>
+        </Model>
+      </ConcertRule>
+    </Conflict>
+  </Rule>
+</ConcertRules>

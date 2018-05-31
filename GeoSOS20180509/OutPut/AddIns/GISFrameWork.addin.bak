@@ -1,0 +1,34 @@
+﻿<AddIn name        = "GISFrameWork"
+       author      = "Zhang Han"
+       copyright   = ""
+       url         = ""
+       description = "FrameWork of GIS"
+       addInManagerHidden = "true">
+	
+	<Manifest>
+		<Identity name = "GISFrameWork"/>
+	</Manifest>
+	
+	<Runtime>
+		<Import assembly=""/>
+	</Runtime>
+
+	<!-- Legend 右键菜单 -->
+	<Path name="/FrameWork/Legend/ContextMenu/Default">
+	    <MenuItem id    = "ResetProperty"  label = "tree"  class = "AddInTest.TreePadCommand"   type="Item"/>
+	</Path>
+	
+	<Path name="/FrameWork/Legend/ContextMenu/MapFrame">
+	</Path>
+	
+	<Path name="/FrameWork/Legend/ContextMenu/VectorLayer">
+	</Path>
+	
+	<Path name="/FrameWork/Legend/ContextMenu/RasterLayer">
+	</Path>
+
+	<Path name="/FrameWork/Legend/ContextMenu/ImageLayer">
+	</Path>
+	
+    <Path name="/FrameWork/ToolBar"></Path>
+</AddIn>

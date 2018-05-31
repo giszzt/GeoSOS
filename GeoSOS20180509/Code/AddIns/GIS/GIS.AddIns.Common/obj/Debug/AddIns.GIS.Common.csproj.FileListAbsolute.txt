@@ -1,0 +1,12 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\bin\AddIns\GIS\Common\AddIns.GIS.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\bin\AddIns\GIS\Common\AddIns.GIS.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\AddIns.GIS.Common\obj\Debug\AddIns.GIS.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\AddIns.GIS.Common\obj\Debug\AddIns.GIS.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\bin\AddIns\GIS\Common\AddIns.GIS.Common.addin
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\AddIns.GIS.Common\obj\Debug\AddIns.GIS.Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\AddIns\GIS\Common\AddIns.GIS.Common.addin
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\AddIns\GIS\Common\AddIns.GIS.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\AddIns\GIS\Common\AddIns.GIS.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\AddIns\GIS\AddIns.GIS.Common\obj\Debug\AddIns.GIS.Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\AddIns\GIS\AddIns.GIS.Common\obj\Debug\AddIns.GIS.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\AddIns\GIS\AddIns.GIS.Common\obj\Debug\AddIns.GIS.Common.pdb

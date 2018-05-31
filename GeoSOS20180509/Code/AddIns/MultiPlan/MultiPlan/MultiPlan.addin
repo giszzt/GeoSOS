@@ -1,0 +1,30 @@
+﻿<AddIn name        = "MultiPlan"
+       author      = "Huang Yinghuai"
+       copyright   = ""
+       url         = ""
+       description = "MultiPlan"
+       addInManagerHidden = "true">
+
+  <Manifest>
+    <Identity name = "MultiPlan"/>
+  </Manifest>
+
+  <Runtime>
+    <Import assembly="MultiPlan.dll"/>
+  </Runtime>
+
+  <Path name="/FrameWork/Ribbon">
+    <Ribbon id="MultiPlan" name="MultiPlan" label="MultiPlan" type="Tab"/>
+  </Path>
+
+  <Path name="/FrameWork/Ribbon/MultiPlan">
+    <Ribbon id="Conflict" name="Conflict" label="Conflict" type="Group">
+      <Ribbon id="Plan" name="Plan" label="Plan" type="Button" icon="404_48px" class="MultiPlan.PlanCommand"></Ribbon>
+      <Ribbon id="Rule" name="Rule" label="Rule" type="Button" icon="404_48px" class="MultiPlan.RuleCommand"></Ribbon>
+      <Ribbon id="Solve" name="Solve" label="Solve" type="Button" icon="404_48px" class="MultiPlan.SolveCommand"></Ribbon>
+      <Ribbon id="Decide" name="Decide" label="Decide" type="Button" icon="404_48px" class="MultiPlan.DecideCommand"></Ribbon>
+      <!--<Ribbon id="FeatureInfo" name="FeatureInfo" label="FeatureInfo" type="Button" icon="404_48px" class="MultiPlan.InfoCommand"></Ribbon>-->
+    </Ribbon>
+  </Path>
+
+</AddIn>

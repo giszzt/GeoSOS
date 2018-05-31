@@ -1,0 +1,40 @@
+﻿<AddIn name        = "GIS.AddIns.Common"
+       author      = ""
+       copyright   = ""
+       url         = ""
+       description = "GIS.AddIns.Ca"
+       addInManagerHidden = "true">
+
+  <Manifest>
+    <Identity name = "GIS.AddIns.Ca"/>
+  </Manifest>
+
+  <Runtime>
+    <Import assembly="GIS.AddIns.Ca.dll"/>
+  </Runtime>
+
+  <Path name="/FrameWork/Ribbon">
+    <Ribbon id="Ca" name="Ca" label="Ca" type="Tab"/>
+  </Path>
+
+  <!-- Add To Ribbon 加载Ribbon Button -->
+  <Path name="/FrameWork/Ribbon/Ca">    
+    <Ribbon id="Ca_Cpp" name="Ca_Cpp" label="Ca_Cpp" type="Group" insertafter="Measure">      
+      <Ribbon id="SimpleCA" name="SimpleCA" label="SimpleCA" type="Button" icon="404_48px" class="GIS.AddIns.Ca.SimpleCACommand"></Ribbon>
+      <Ribbon id="LogisticPatchCA" name="LogisticPatchCA" label="LogisticPatchCA" type="Button" icon="404_48px" class="GIS.AddIns.Ca.LogisticPatchCACommand"></Ribbon>      
+    </Ribbon>
+    <Ribbon id="Ca_Cs" name="Ca_Cs" label="Ca_Cs" type="Group" insertafter="Measure">      
+      <Ribbon id="AddTiff" name="AddTiff" label="AddTiff" type="Button" icon="404_48px" class="GIS.AddIns.Ca.AddTiffCommand"></Ribbon>
+      <Ribbon id="AnnCa" name="AnnCa" label="AnnCa" type="Button" icon="404_48px" class="GIS.AddIns.Ca.AnnCaCommand"></Ribbon>
+      <Ribbon id="DecisionTreeCa" name="DecisionTreeCa" label="DecisionTreeCa" type="Button" icon="404_48px" class="GIS.AddIns.Ca.DecisionTreeCommand"></Ribbon>
+      <Ribbon id="AhpCa" name="AhpCa" label="AhpCa" type="Button" icon="404_48px" class="GIS.AddIns.Ca.AhpCaCommand"></Ribbon>
+    </Ribbon>
+    <Ribbon id="Algorithms" name="Algorithms" label="Algorithms" type="Group" insertafter="Measure">
+      <Ribbon id="LogisticRegression" name="LogisticRegression" label="LogisticRegression" type="Button" icon="404_48px" class="GIS.AddIns.Ca.LogisticRegressionCommand"></Ribbon>      
+    </Ribbon>
+  </Path>
+
+
+
+
+</AddIn>

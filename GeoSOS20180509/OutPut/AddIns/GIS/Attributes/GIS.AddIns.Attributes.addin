@@ -1,0 +1,27 @@
+﻿<AddIn name        = "GIS.AddIns.Attributes"
+       author      = "Zhang Han and Cui Xuesen"
+       copyright   = ""
+       url         = ""
+       description = "GIS.AddIns.Attributes"
+       addInManagerHidden = "true">
+
+  <Manifest>
+    <Identity name = "GIS.AddIns.Attributes"/>
+  </Manifest>
+
+  <Runtime>
+    <Import assembly="GIS.AddIns.Attributes.dll"></Import>
+  </Runtime>
+
+  <Path name = "/FrameWork/ToolStrips/Attributes">
+    <ToolbarItem id = "SQLBulider"  icon = "404_32px"  tooltip = "${res:Attributes.ToolStrip.SQLBulider}"  class = "GIS.AddIns.Attributes.SQLBuliderCommand" type="Item"/>
+    <ToolbarItem id = "ClearSelection"  icon = "404_32px"  tooltip = "${res:Attributes.ToolStrip.ClearSelection}"  class = "GIS.AddIns.Attributes.ClearSelectionCommand" type="Item"/>
+    <ToolbarItem id = "ShowOnlySelectedRows"  icon = "404_32px"  tooltip = "${res:Attributes.ToolStrip.ShowOnlySelectedRows}"  class = "GIS.AddIns.Attributes.ShowOnlySelectedRowsCommand" type="Item"/>
+    <ToolbarItem id = "ShowAllRows"  icon = "404_32px"  tooltip = "${res:Attributes.ToolStrip.ShowAllRows}"  class = "GIS.AddIns.Attributes.ShowAllRowsCommand" type="Item"/>
+    <ToolbarItem id = "Separator" type  = "Separator"/>
+    <ToolbarItem id = "FieldCaculator"  icon = "404_32px"  tooltip = "${res:Attributes.ToolStrip.FieldCaculator}"  class = "GIS.AddIns.Attributes.FieldCaculatorCommand" type="Item"/>
+    <ToolbarItem id = "AddField"  icon = "404_32px"  tooltip = "${res:Attributes.ToolStrip.AddField}"  class = "GIS.AddIns.Attributes.AddFieldCommand" type="Item"/>
+    <ToolbarItem id = "RemoveField"  icon = "404_32px"  tooltip = "${res:Attributes.ToolStrip.RemoveField}"  class = "GIS.AddIns.Attributes.RemoveFieldCommand" type="Item"/>
+    <ToolbarItem id = "RenameField"  icon = "404_32px"  tooltip = "${res:Attributes.ToolStrip.RenameField}"  class = "GIS.AddIns.Attributes.RenameFieldCommand" type="Item"/>
+  </Path>
+</AddIn>

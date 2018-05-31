@@ -1,0 +1,73 @@
+﻿<AddIn name        = "GIS.AddIns.Legend"
+       author      = "Zhang Han and Cai JunYi"
+       copyright   = ""
+       url         = ""
+       description = "GIS.AddIns.Legend"
+       addInManagerHidden = "true">
+
+  <Manifest>
+    <Identity name = "GIS.AddIns.Legend"/>
+  </Manifest>
+
+  <Runtime>
+    <Import assembly="GIS.AddIns.Legend.dll"/>
+  </Runtime>
+
+  <!-- Legend 右键菜单 -->
+  <Path name="/FrameWork/Legend/ContextMenu/Default">
+  </Path>
+
+  <!-- Legend MapFrame -->
+  <Path name="/FrameWork/Legend/ContextMenu/MapFrame">
+    <MenuItem id = "RemoveMapFrame"  label = "${res:Legend.ContextMenu.MapFrame.RemoveMapFrame}"  class = "GIS.AddIns.Legend.RemoveMapFrameCommand"   type="Item"/>
+    <MenuItem id = "ZoomToMapFrame"  label = "${res:Legend.ContextMenu.MapFrame.ZoomToMapFrame}"  class = "GIS.AddIns.Legend.ZoomToMapFrameCammand"   type="Item"/>
+    <MenuItem id = "Projections"  label = "${res:Legend.ContextMenu.MapFrame.Projections}"  class = "GIS.AddIns.Legend.ProjectionCommand"   type="Item"/>
+  </Path>s
+
+  <!-- Legend FeatureLayer -->
+  <Path name="/FrameWork/Legend/ContextMenu/FeatureLayer">
+    <MenuItem id = "OpenAttribute"  label = "${res:Legend.ContextMenu.FeatureLayer.OpenAttribute}"  class = "GIS.AddIns.Legend.OpenAttributeCommand"   type="Item"/>
+    <MenuItem id = "RemoveLayer"  label = "${res:Legend.ContextMenu.FeatureLayer.RemoveLayer}"  class = "GIS.AddIns.Legend.RemoveLayerCommand"   type="Item"/>
+    <MenuItem id = "ZoomToLayer"  label = "${res:Legend.ContextMenu.FeatureLayer.ZoomToLayer}"  class = "GIS.AddIns.Legend.ZoomToLayerCommand"   type="Item"/>
+    <!--<MenuItem id = "SetDynamicVisibilityScale"  label = "${res:Legend.ContextMenu.FeatureLayer.SetDynamicVisibilityScale}"  class = "GIS.AddIns.Legend.SetDynamicVisibilityScaleCommand"   type="Item"/>
+    <MenuItem id = "Labeling"  label = "${res:Legend.ContextMenu.FeatureLayer.Labeling}" type = "Menu">
+      <MenuItem id = "LabelSetup"  label = "${res:Legend.ContextMenu.FeatureLayer.LabelSetup}"  class = "GIS.AddIns.Legend.LabelSetupCommand"   type="Item"/>
+      <MenuItem id = "SetLabelVisibilityScale"  label = "${res:Legend.ContextMenu.FeatureLayer.SetDynamicVisibilityScale}"  class = "GIS.AddIns.Legend.SetLabelVisibilityScaleCommand"   type="Item"/>
+    </MenuItem>-->
+    <MenuItem id = "Labeling"  label = "${res:Legend.ContextMenu.FeatureLayer.Labeling}"  class = "GIS.AddIns.Legend.LabelSetupCommand"   type="Item"/>
+    <MenuItem id = "Selection"  label = "${res:Legend.ContextMenu.FeatureLayer.Selection}" type = "Menu">
+      <MenuItem id = "SelectByPolygon"  label = "${res:Legend.ContextMenu.FeatureLayer.SelectByPolygon}"  class = "GIS.AddIns.Legend.SelectByPolygonCommand"   type="Item"/>
+      <MenuItem id = "SelectByROI"  label = "${res:Legend.ContextMenu.FeatureLayer.SelectByROI}"  class = "GIS.AddIns.Legend.SelectByROICommand"   type="Item"/>
+      <MenuItem id = "ZoomToSelectedFeatures"  label = "${res:Legend.ContextMenu.FeatureLayer.ZoomToSelectedFeatures}"  class = "GIS.AddIns.Legend.ZoomToSelectedFeaturesCommand"   type="Item"/>
+      <MenuItem id = "ClearSelection"  label = "${res:Legend.ContextMenu.FeatureLayer.ClearSelection}"  class = "GIS.AddIns.Legend.ClearSelectionCommand"   type="Item"/>
+    </MenuItem>
+    <MenuItem id = "Data"  label = "${res:Legend.ContextMenu.FeatureLayer.Data}" type = "Menu">
+      <MenuItem id = "ExportData"  label = "${res:Legend.ContextMenu.FeatureLayer.ExportData}"  class = "GIS.AddIns.Legend.ExportDataCommand"   type="Item"/>
+    </MenuItem>
+    <MenuItem id = "Properties"  label = "${res:Legend.ContextMenu.FeatureLayer.Properties}"  class = "GIS.AddIns.Legend.PropertiesCommand"   type="Item"/>
+  <MenuItem id = "symbology"  label = "${res:GIS.Common.Dialogs.Symbol}"  class = "GIS.AddIns.Legend.SymbologyCommand"   type="Item"/>
+  </Path>
+
+  <!-- Legend RasterLayer -->
+  <Path name="/FrameWork/Legend/ContextMenu/RasterLayer">   
+    <MenuItem id = "RemoveLayer"  label = "${res:Legend.ContextMenu.RasterLayer.RemoveLayer}"  class = "GIS.AddIns.Legend.RemoveLayerCommand"   type="Item"/>
+    <MenuItem id = "ZoomToLayer"  label = "${res:Legend.ContextMenu.RasterLayer.ZoomToLayer}"  class = "GIS.AddIns.Legend.ZoomToLayerCommand"   type="Item"/>
+    <!--<MenuItem id = "SetDynamicVisibilityScale"  label = "${res:Legend.ContextMenu.RasterLayer.SetDynamicVisibilityScale}"  class = "GIS.AddIns.Legend.SetDynamicVisibilityScaleCommand"   type="Item"/>-->    
+    <MenuItem id = "Data"  label = "${res:Legend.ContextMenu.RasterLayer.Data}" type = "Menu">
+      <MenuItem id = "ExportData"  label = "${res:Legend.ContextMenu.RasterLayer.ExportData}"  class = "GIS.AddIns.Legend.ExportDataCommand"   type="Item"/>
+    </MenuItem>
+    <MenuItem id = "Properties"  label = "${res:Legend.ContextMenu.RasterLayer.Properties}"  class = "GIS.AddIns.Legend.PropertiesCommand"   type="Item"/>
+  </Path>
+
+  <!-- Legend ImageLayer -->
+  <Path name="/FrameWork/Legend/ContextMenu/ImageLayer">
+    <MenuItem id = "RemoveLayer"  label = "${res:Legend.ContextMenu.ImageLayer.RemoveLayer}"  class = "GIS.AddIns.Legend.RemoveLayerCommand"   type="Item"/>
+    <MenuItem id = "ZoomToLayer"  label = "${res:Legend.ContextMenu.ImageLayer.ZoomToLayer}"  class = "GIS.AddIns.Legend.ZoomToLayerCommand"   type="Item"/>
+    <!--<MenuItem id = "SetDynamicVisibilityScale"  label = "${res:Legend.ContextMenu.ImageLayer.SetDynamicVisibilityScale}"  class = "GIS.AddIns.Legend.SetDynamicVisibilityScaleCommand"   type="Item"/>-->
+    <MenuItem id = "Data"  label = "${res:Legend.ContextMenu.ImageLayer.Data}" type = "Menu">
+      <MenuItem id = "ExportData"  label = "${res:Legend.ContextMenu.ImageLayer.ExportData}"  class = "GIS.AddIns.Legend.ExportDataCommand"   type="Item"/>
+    </MenuItem>
+    <MenuItem id = "Properties"  label = "${res:Legend.ContextMenu.ImageLayer.Properties}"  class = "GIS.AddIns.Legend.PropertiesCommand"   type="Item"/>
+  </Path>
+
+</AddIn>

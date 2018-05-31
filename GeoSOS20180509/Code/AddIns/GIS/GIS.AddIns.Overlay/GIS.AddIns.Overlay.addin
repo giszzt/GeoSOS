@@ -1,0 +1,32 @@
+﻿<AddIn name        = "GIS.AddIns.Overlay"
+       author      = "Cai JunYi"
+       copyright   = ""
+       url         = ""
+       description = "GIS.AddIns.Overlay"
+       addInManagerHidden = "true">
+
+  <Manifest>
+    <Identity name = "GIS.AddIns.Overlay"/>
+  </Manifest>
+
+  <Runtime>
+    <Import assembly="GIS.AddIns.Overlay.dll"/>
+  </Runtime>
+
+  <Path name="/FrameWork/Ribbon">
+    <Ribbon id="SpatialAnalysis" name="SpatialAnalysis" label="${res:Ribbon.SpatialAnalysis}" type="Tab"/>
+  </Path>
+
+  <Path name="/FrameWork/Ribbon/SpatialAnalysis">
+    <Ribbon id="Overlay" name="Overlay" label="${res:Ribbon.SpatialAnalysis.Overlay}" type="Group">
+      <Ribbon id="Intersection" name="Intersection" label="${res:Ribbon.SpatialAnalysis.Overlay.Intersection}" type="Button" icon="404_48px" class="GIS.AddIns.Overlay.IntersectionCommand"></Ribbon>
+      <Ribbon id="Union" name="Union" label="${res:Ribbon.SpatialAnalysis.Overlay.Union}" type="Button" icon="404_48px" class="GIS.AddIns.Overlay.UnionCommand"></Ribbon>
+      <Ribbon id="SymDifference" name="SymDifference" label="${res:Ribbon.SpatialAnalysis.Overlay.SymDifference}" type="Button" icon="404_48px" class="GIS.AddIns.Overlay.SymDifferenceCommand"></Ribbon>
+      <Ribbon id="Identity" name="Identity" label="${res:Ribbon.SpatialAnalysis.Overlay.Identity}" type="Button" icon="404_48px" class="GIS.AddIns.Overlay.IdentityCommand"></Ribbon>
+      <Ribbon id="Update" name="Update" label="${res:Ribbon.SpatialAnalysis.Overlay.Update}" type="Button" icon="404_48px" class="GIS.AddIns.Overlay.UpdateCommand"></Ribbon>
+      <Ribbon id="Clip" name="Clip" label="${res:Ribbon.SpatialAnalysis.Overlay.Clip}" type="Button" icon="404_48px" class="GIS.AddIns.Overlay.ClipCommand"></Ribbon>
+      <Ribbon id="Erase" name="Erase" label="${res:Ribbon.SpatialAnalysis.Overlay.Erase}" type="Button" icon="404_48px" class="GIS.AddIns.Overlay.EraseCommand"></Ribbon>      
+    </Ribbon>
+  </Path>
+
+</AddIn>

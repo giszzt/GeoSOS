@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Plans>
+  <Plan name="土地规划">
+    <PlanInfo>
+      <Address>E:\Data\New_Shapefile.shp</Address>
+      <TransField>GKQ</TransField>
+      <TransFieldAlias>管控区</TransFieldAlias>
+    </PlanInfo>
+    <ControlZones>
+      <ControlZone name="基本农田保护区">
+        <UniqueField>
+        </UniqueField>
+        <Address>C:\Users\biqih\Desktop\bin20160104\bin\Debug\Data\MultiPlan.gdb\GKQ\土地规划_基本农田保护区</Address>
+        <SQL>TDYTQLXMC = '基本农田保护区'</SQL>
+        <SpatialRigon>
+        </SpatialRigon>
+        <TransValue>基本农田保护区</TransValue>
+        <BSM>TG</BSM>
+      </ControlZone>
+      <ControlZone name="非建设用地管控区">
+        <UniqueField>
+        </UniqueField>
+        <Address>C:\Users\biqih\Desktop\bin20160104\bin\Debug\Data\MultiPlan.gdb\GKQ\土地规划_非建设用地管控区</Address>
+        <SQL>TDYTQLXMC &lt;&gt; '城镇村建设用地区' and TDYTQLXMC  &lt;&gt; '独立工矿区'</SQL>
+        <SpatialRigon>
+        </SpatialRigon>
+        <TransValue>非建设用地管控区</TransValue>
+        <BSM>TG</BSM>
+      </ControlZone>
+      <ControlZone name="建设用地管控区">
+        <UniqueField>
+        </UniqueField>
+        <Address>C:\Users\biqih\Desktop\bin20160104\bin\Debug\Data\MultiPlan.gdb\GKQ\土地规划_建设用地管控区</Address>
+        <SQL>TDYTQLXMC='城镇村建设用地区' or TDYTQLXMC='城镇村建设用地区' or TDYTQLXMC='独立工矿区'</SQL>
+        <SpatialRigon>
+        </SpatialRigon>
+        <TransValue>建设用地管控区</TransValue>
+        <BSM>TG</BSM>
+      </ControlZone>
+    </ControlZones>
+  </Plan>
+  <Plan name="城市规划">
+    <PlanInfo>
+      <Address>e:\冲突检测测试数据.gdb\冲突检测测试数据.gdb\冲突检测测试数据.gdb\GHDK_CG</Address>
+      <TransField>GKQ1</TransField>
+      <TransFieldAlias>管控区1</TransFieldAlias>
+    </PlanInfo>
+    <ControlZones>
+      <ControlZone name="非建设用地管控区">
+        <UniqueField>
+        </UniqueField>
+        <Address>C:\Users\biqih\Desktop\bin20160104\bin\Debug\Data\MultiPlan.gdb\GKQ\城市规划_非建设用地管控区</Address>
+        <SQL>YDXZ = '防护绿地' OR YDXZ = '公园绿地' OR YDXZ = '农林用地' OR YDXZ = '水域'</SQL>
+        <SpatialRigon>
+        </SpatialRigon>
+        <TransValue>非建设用地管</TransValue>
+        <BSM>CG</BSM>
+      </ControlZone>
+      <ControlZone name="建设用地管控区">
+        <UniqueField>
+        </UniqueField>
+        <Address>C:\Users\biqih\Desktop\bin20160104\bin\Debug\Data\MultiPlan.gdb\GKQ\城市规划_建设用地管控区</Address>
+        <SQL>YDXZ &lt;&gt; '防护绿地' AND YDXZ &lt;&gt; '公园绿地' AND YDXZ &lt;&gt; '农林用地' AND YDXZ &lt;&gt; '水域'</SQL>
+        <SpatialRigon>
+        </SpatialRigon>
+        <TransValue>建设用地管控区</TransValue>
+        <BSM>CG</BSM>
+      </ControlZone>
+    </ControlZones>
+  </Plan>
+  <Plan name="林业规划">
+    <PlanInfo>
+      <Address>e:\冲突检测测试数据.gdb\冲突检测测试数据.gdb\冲突检测测试数据.gdb\LDBHGKQ_LG</Address>
+      <TransField>GKQ</TransField>
+      <TransFieldAlias>管控区</TransFieldAlias>
+    </PlanInfo>
+    <ControlZones>
+      <ControlZone name="二级管控区">
+        <UniqueField>
+        </UniqueField>
+        <Address>C:\Users\biqih\Desktop\bin20160104\bin\Debug\Data\MultiPlan.gdb\GKQ\林业规划_二级管控区</Address>
+        <SQL>GKDJ = '二级管控区'</SQL>
+        <SpatialRigon>
+        </SpatialRigon>
+        <TransValue>二级管控区</TransValue>
+        <BSM>LG</BSM>
+      </ControlZone>
+    </ControlZones>
+  </Plan>
+  <Plan name="规划A">
+    <PlanInfo>
+      <Address>E:\Data\MultiPlan\PlanA.shp</Address>
+      <TransField>GKQ</TransField>
+      <TransFieldAlias>管控区</TransFieldAlias>
+    </PlanInfo>
+    <ControlZones>
+      <ControlZone name="ID0">
+        <UniqueField>
+        </UniqueField>
+        <Address>E:\Data\MultiPlan\PlanA_1.shp</Address>
+        <SQL>[Id] = 0</SQL>
+        <SpatialRigon>
+        </SpatialRigon>
+        <TransValue>ID=0</TransValue>
+        <BSM>A</BSM>
+      </ControlZone>
+    </ControlZones>
+  </Plan>
+  <Plan name="规划B">
+    <PlanInfo>
+      <Address>E:\Data\MultiPlan\PlanB.shp</Address>
+      <TransField>GKQ</TransField>
+      <TransFieldAlias>管控区</TransFieldAlias>
+    </PlanInfo>
+    <ControlZones>
+      <ControlZone name="ID0">
+        <UniqueField>
+        </UniqueField>
+        <Address>E:\Data\MultiPlan\PlanB_1.shp</Address>
+        <SQL>Id = 0</SQL>
+        <SpatialRigon>
+        </SpatialRigon>
+        <TransValue>ID=0</TransValue>
+        <BSM>B</BSM>
+      </ControlZone>
+      <ControlZone name="新建管控区">
+        <UniqueField>
+        </UniqueField>
+        <Address>e:\Test.shp</Address>
+        <SQL>[Id] = 0</SQL>
+        <SpatialRigon>
+        </SpatialRigon>
+        <TransValue>dd</TransValue>
+        <BSM>ss</BSM>
+      </ControlZone>
+    </ControlZones>
+  </Plan>
+</Plans>

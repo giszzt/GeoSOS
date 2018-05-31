@@ -1,0 +1,54 @@
+E:\John\SYSU\GISProgram\OutPut\AddIns\GIS\Legend\GIS.AddIns.Legend.addin
+E:\John\SYSU\GISProgram\OutPut\AddIns\GIS\Legend\GIS.AddIns.Legend.dll
+E:\John\SYSU\GISProgram\OutPut\AddIns\GIS\Legend\GIS.AddIns.Legend.pdb
+E:\John\SYSU\GISProgram\Code\AddIns.GIS.Legend\obj\Debug\GIS.AddIns.Legend.dll
+E:\John\SYSU\GISProgram\Code\AddIns.GIS.Legend\obj\Debug\GIS.AddIns.Legend.pdb
+E:\John\SYSU\Code\GISProgram\OutPut\AddIns\GIS\Legend\GIS.AddIns.Legend.addin
+E:\John\SYSU\Code\GISProgram\OutPut\AddIns\GIS\Legend\GIS.AddIns.Legend.dll
+E:\John\SYSU\Code\GISProgram\OutPut\AddIns\GIS\Legend\GIS.AddIns.Legend.pdb
+E:\John\SYSU\Code\GISProgram\Code\AddIns.GIS.Legend\obj\Debug\GIS.AddIns.Legend.dll
+E:\John\SYSU\Code\GISProgram\Code\AddIns.GIS.Legend\obj\Debug\GIS.AddIns.Legend.pdb
+X:\系统开发\GISProgam6.7\GISProgram\Code\AddIns\GIS.AddIns.Legend\obj\Debug\GIS.AddIns.Legend.dll
+X:\系统开发\GISProgam6.7\GISProgram\Code\AddIns\GIS.AddIns.Legend\obj\Debug\GIS.AddIns.Legend.pdb
+X:\系统开发\GISProgam6.7\GISProgram\Output\AddIns\GIS\Legend\GIS.AddIns.Legend.addin
+X:\系统开发\GISProgam6.7\GISProgram\Output\AddIns\GIS\Legend\GIS.AddIns.Legend.dll
+X:\系统开发\GISProgam6.7\GISProgram\Output\AddIns\GIS\Legend\GIS.AddIns.Legend.pdb
+X:\系统开发\GISProgam6.7\GISProgram\Code\AddIns\GIS.AddIns.Legend\obj\Debug\GIS.AddIns.Legend.csprojResolveAssemblyReference.cache
+X:\系统开发\GISProgram6.13\GISProgram\Output\AddIns\GIS\Legend\GIS.AddIns.Legend.addin
+X:\系统开发\GISProgram6.13\GISProgram\Output\AddIns\GIS\Legend\GIS.AddIns.Legend.dll
+X:\系统开发\GISProgram6.13\GISProgram\Output\AddIns\GIS\Legend\GIS.AddIns.Legend.pdb
+X:\系统开发\GISProgram6.13\GISProgram\Code\AddIns\GIS.AddIns.Legend\obj\Debug\GIS.AddIns.Legend.dll
+X:\系统开发\GISProgram6.13\GISProgram\Code\AddIns\GIS.AddIns.Legend\obj\Debug\GIS.AddIns.Legend.pdb
+X:\系统开发\GISProgram6.13\GISProgram\Code\AddIns\GIS.AddIns.Legend\obj\Debug\GIS.AddIns.Legend.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\bin\AddIns\GIS\Legend\GIS.AddIns.Legend.addin
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\bin\AddIns\GIS\Legend\GIS.AddIns.Legend.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\bin\AddIns\GIS\Legend\GIS.AddIns.Legend.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Legend\obj\Debug\GIS.AddIns.Legend.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Legend\obj\Debug\GIS.AddIns.Legend.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\GIS\Legend\GIS.AddIns.Legend.addin
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\GIS\Legend\GIS.AddIns.Legend.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\GIS\Legend\GIS.AddIns.Legend.pdb
+D:\Git\GeoSOS\OutPut\AddIns\GIS\Legend\GIS.AddIns.Legend.addin
+D:\Git\GeoSOS\OutPut\AddIns\GIS\Legend\GIS.AddIns.Legend.dll
+D:\Git\GeoSOS\OutPut\AddIns\GIS\Legend\GIS.AddIns.Legend.pdb
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Legend\obj\Debug\GIS.AddIns.Legend.csprojResolveAssemblyReference.cache
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Legend\obj\Debug\GIS.AddIns.Legend.dll
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Legend\obj\Debug\GIS.AddIns.Legend.pdb
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Legend\obj\Debug\GIS.AddIns.Legend.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Legend\obj\Debug\GIS.AddIns.Legend.dll
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Legend\obj\Debug\GIS.AddIns.Legend.pdb
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\OutPut\AddIns\GIS\Legend\GIS.AddIns.Legend.addin
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\OutPut\AddIns\GIS\Legend\GIS.AddIns.Legend.dll
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\OutPut\AddIns\GIS\Legend\GIS.AddIns.Legend.pdb
+E:\GeoSOS\OutPut\AddIns\GIS\Legend\GIS.AddIns.Legend.addin
+E:\GeoSOS\OutPut\AddIns\GIS\Legend\GIS.AddIns.Legend.dll
+E:\GeoSOS\OutPut\AddIns\GIS\Legend\GIS.AddIns.Legend.pdb
+E:\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Legend\obj\Debug\GIS.AddIns.Legend.csprojResolveAssemblyReference.cache
+E:\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Legend\obj\Debug\GIS.AddIns.Legend.dll
+E:\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Legend\obj\Debug\GIS.AddIns.Legend.pdb
+C:\Users\Administrator\Desktop\GeoSOS20170727\OutPut\AddIns\GIS\Legend\GIS.AddIns.Legend.addin
+C:\Users\Administrator\Desktop\GeoSOS20170727\OutPut\AddIns\GIS\Legend\GIS.AddIns.Legend.dll
+C:\Users\Administrator\Desktop\GeoSOS20170727\OutPut\AddIns\GIS\Legend\GIS.AddIns.Legend.pdb
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\AddIns\GIS\GIS.AddIns.Legend\obj\Debug\GIS.AddIns.Legend.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\AddIns\GIS\GIS.AddIns.Legend\obj\Debug\GIS.AddIns.Legend.dll
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\AddIns\GIS\GIS.AddIns.Legend\obj\Debug\GIS.AddIns.Legend.pdb

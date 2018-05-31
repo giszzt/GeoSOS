@@ -1,0 +1,34 @@
+E:\John\SYSU\Code\GISProgram6.14\GISProgram\Output\AddIns\GIS\Overlay\GIS.AddIns.Overlay.dll
+E:\John\SYSU\Code\GISProgram6.14\GISProgram\Output\AddIns\GIS\Overlay\GIS.AddIns.Overlay.pdb
+E:\John\SYSU\Code\GISProgram6.14\GISProgram\Code\AddIns\GIS.AddIns.Overlay\obj\Debug\GIS.AddIns.Overlay.csprojResolveAssemblyReference.cache
+E:\John\SYSU\Code\GISProgram6.14\GISProgram\Code\AddIns\GIS.AddIns.Overlay\obj\Debug\GIS.AddIns.Overlay.csproj.GenerateResource.Cache
+E:\John\SYSU\Code\GISProgram6.14\GISProgram\Code\AddIns\GIS.AddIns.Overlay\obj\Debug\GIS.AddIns.Overlay.dll
+E:\John\SYSU\Code\GISProgram6.14\GISProgram\Code\AddIns\GIS.AddIns.Overlay\obj\Debug\GIS.AddIns.Overlay.pdb
+E:\John\SYSU\Code\GISProgram6.14\GISProgram\Output\AddIns\GIS\Overlay\GIS.AddIns.Overlay.addin
+E:\John\SYSU\Code\GISProgram6.14\GISProgram\Code\AddIns\GIS.AddIns.Overlay\obj\Debug\GIS.AddIns.Overlay.SA_Dialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\AddIns\GIS\GIS.AddIns.Overlay\obj\Debug\GIS.AddIns.Overlay.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\AddIns\GIS\GIS.AddIns.Overlay\obj\Debug\GIS.AddIns.Overlay.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\AddIns\GIS\GIS.AddIns.Overlay\obj\Debug\GIS.AddIns.Overlay.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\AddIns\GIS\Overlay\GIS.AddIns.Overlay.addin
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\AddIns\GIS\Overlay\GIS.AddIns.Overlay.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\AddIns\GIS\Overlay\GIS.AddIns.Overlay.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\AddIns\GIS\GIS.AddIns.Overlay\obj\Debug\GIS.AddIns.Overlay.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\AddIns\GIS\GIS.AddIns.Overlay\obj\Debug\GIS.AddIns.Overlay.OverlayDialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\bin\AddIns\GIS\Overlay\GIS.AddIns.Overlay.addin
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\bin\AddIns\GIS\Overlay\GIS.AddIns.Overlay.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\bin\AddIns\GIS\Overlay\GIS.AddIns.Overlay.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Overlay\obj\Debug\GIS.AddIns.Overlay.OverlayDialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Overlay\obj\Debug\GIS.AddIns.Overlay.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Overlay\obj\Debug\GIS.AddIns.Overlay.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Overlay\obj\Debug\GIS.AddIns.Overlay.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\GIS\Overlay\GIS.AddIns.Overlay.addin
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\GIS\Overlay\GIS.AddIns.Overlay.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\GIS\Overlay\GIS.AddIns.Overlay.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Overlay\obj\Debug\GIS.AddIns.Overlay.csprojResolveAssemblyReference.cache
+D:\Git\GeoSOS\OutPut\AddIns\GIS\Overlay\GIS.AddIns.Overlay.addin
+D:\Git\GeoSOS\OutPut\AddIns\GIS\Overlay\GIS.AddIns.Overlay.dll
+D:\Git\GeoSOS\OutPut\AddIns\GIS\Overlay\GIS.AddIns.Overlay.pdb
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Overlay\obj\Debug\GIS.AddIns.Overlay.OverlayDialog.resources
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Overlay\obj\Debug\GIS.AddIns.Overlay.csproj.GenerateResource.Cache
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Overlay\obj\Debug\GIS.AddIns.Overlay.dll
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Overlay\obj\Debug\GIS.AddIns.Overlay.pdb

@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{DD1FB81F-64E7-4D54-B3D4-06A97EE1F9B9}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FrameWork</RootNamespace>
+    <AssemblyName>FrameWork</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\OutPut\Library\FrameWork\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AvalonDock, Version=1.3.3585.0, Culture=neutral, PublicKeyToken=f829da5c02be14ee, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>D:\SharpDevelop_4.4.2.9749_Source\bin\AvalonDock.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ICSharpCode.Core">
+      <HintPath>..\..\OutPut\Library\SharpDevelop\ICSharpCode.Core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ICSharpCode.Core.Presentation">
+      <HintPath>..\..\OutPut\Library\SharpDevelop\ICSharpCode.Core.Presentation.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ICSharpCode.Core.WinForms">
+      <HintPath>..\..\OutPut\Library\SharpDevelop\ICSharpCode.Core.WinForms.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ICSharpCode.NRefactory, Version=4.4.2.9749, Culture=neutral, PublicKeyToken=efe927acf176eea2, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\OutPut\Library\SharpDevelop\ICSharpCode.NRefactory.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpDevelop, Version=4.4.2.9749, Culture=neutral, PublicKeyToken=f829da5c02be14ee, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\OutPut\Library\SharpDevelop\ICSharpCode.SharpDevelop.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpDevelop.Dom">
+      <HintPath>..\..\OutPut\Library\SharpDevelop\ICSharpCode.SharpDevelop.Dom.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpDevelop.Widgets">
+      <HintPath>..\..\OutPut\Library\SharpDevelop\ICSharpCode.SharpDevelop.Widgets.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="log4net">
+      <HintPath>D:\SharpDevelop_4.4.2.9749_Source\bin\log4net.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Mono.Cecil">
+      <HintPath>D:\Program Files (x86)\SharpDevelop\4.4\bin\Mono.Cecil.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="PresentationFramework.Aero" />
+    <Reference Include="RibbonControlsLibrary, Version=4.0.0.11019, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Microsoft Ribbon for WPF\V4.0\RibbonControlsLibrary.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Commands\AutostartCommands.cs" />
+    <Compile Include="Commands\FileCommands.cs" />
+    <Compile Include="Commands\HelpCommands.cs" />
+    <Compile Include="ContextMenu\ContextMenu.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ContextMenu\ContextMenuCommand.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ContextMenu\ContextMenuSeparator.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ContextMenu\ContextMenuService.cs" />
+    <Compile Include="ContextMenu\ISubmenuBuilder.cs" />
+    <Compile Include="Dom\Ambience.cs" />
+    <Compile Include="Dom\BusyManager.cs" />
+    <Compile Include="Dom\CecilReader.cs" />
+    <Compile Include="Dom\ClassFinder.cs" />
+    <Compile Include="Dom\CSharp\CSharpAmbience.cs" />
+    <Compile Include="Dom\CSharp\CSharpExpressionContext.cs" />
+    <Compile Include="Dom\CSharp\ExpressionFinder.cs" />
+    <Compile Include="Dom\CSharp\OverloadResolution.cs" />
+    <Compile Include="Dom\CSharp\TypeInference.cs" />
+    <Compile Include="Dom\CtrlSpaceResolveHelper.cs" />
+    <Compile Include="Dom\DiffUtility.cs" />
+    <Compile Include="Dom\DomCache.cs" />
+    <Compile Include="Dom\EasyCodeDom.cs" />
+    <Compile Include="Dom\ExpressionContext.cs" />
+    <Compile Include="Dom\ExtensionMethods.cs" />
+    <Compile Include="Dom\FilePosition.cs" />
+    <Compile Include="Dom\FoldingRegion.cs" />
+    <Compile Include="Dom\FusionNative.cs" />
+    <Compile Include="Dom\GacInterop.cs" />
+    <Compile Include="Dom\HostCallback.cs" />
+    <Compile Include="Dom\IComment.cs" />
+    <Compile Include="Dom\IExpressionFinder.cs" />
+    <Compile Include="Dom\Implementations\AbstractEntity.cs" />
+    <Compile Include="Dom\Implementations\AbstractMember.cs" />
+    <Compile Include="Dom\Implementations\AbstractReturnType.cs" />
+    <Compile Include="Dom\Implementations\AnonymousMethodReturnType.cs" />
+    <Compile Include="Dom\Implementations\ArrayReturnType.cs" />
+    <Compile Include="Dom\Implementations\AttributeReturnType.cs" />
+    <Compile Include="Dom\Implementations\BoundTypeParameter.cs" />
+    <Compile Include="Dom\Implementations\CombinedReturnType.cs" />
+    <Compile Include="Dom\Implementations\CompoundClass.cs" />
+    <Compile Include="Dom\Implementations\ConstructedReturnType.cs" />
+    <Compile Include="Dom\Implementations\DecoratingReturnType.cs" />
+    <Compile Include="Dom\Implementations\DefaultAttribute.cs" />
+    <Compile Include="Dom\Implementations\DefaultClass.cs" />
+    <Compile Include="Dom\Implementations\DefaultComment.cs" />
+    <Compile Include="Dom\Implementations\DefaultCompilationUnit.cs" />
+    <Compile Include="Dom\Implementations\DefaultEvent.cs" />
+    <Compile Include="Dom\Implementations\DefaultField.cs" />
+    <Compile Include="Dom\Implementations\DefaultMethod.cs" />
+    <Compile Include="Dom\Implementations\DefaultParameter.cs" />
+    <Compile Include="Dom\Implementations\DefaultProperty.cs" />
+    <Compile Include="Dom\Implementations\DefaultReturnType.cs" />
+    <Compile Include="Dom\Implementations\DefaultTypeParameter.cs" />
+    <Compile Include="Dom\Implementations\DefaultUsing.cs" />
+    <Compile Include="Dom\Implementations\DefaultUsingScope.cs" />
+    <Compile Include="Dom\Implementations\DynamicReturnType.cs" />
+    <Compile Include="Dom\Implementations\ElementReturnType.cs" />
+    <Compile Include="Dom\Implementations\GenericReturnType.cs" />
+    <Compile Include="Dom\Implementations\GetClassReturnType.cs" />
+    <Compile Include="Dom\Implementations\MethodGroupReturnType.cs" />
+    <Compile Include="Dom\Implementations\NullReturnType.cs" />
+    <Compile Include="Dom\Implementations\PointerReturnType.cs" />
+    <Compile Include="Dom\Implementations\ProxyReturnType.cs" />
+    <Compile Include="Dom\Implementations\ReferenceReturnType.cs" />
+    <Compile Include="Dom\Implementations\SearchClassReturnType.cs" />
+    <Compile Include="Dom\Implementations\SystemTypes.cs" />
+    <Compile Include="Dom\Implementations\UnknownReturnType.cs" />
+    <Compile Include="Dom\Interfaces\ClassType.cs" />
+    <Compile Include="Dom\Interfaces\ExplicitInterfaceImplementation.cs" />
+    <Compile Include="Dom\Interfaces\IAttribute.cs" />
+    <Compile Include="Dom\Interfaces\IClass.cs" />
+    <Compile Include="Dom\Interfaces\ICompilationUnit.cs" />
+    <Compile Include="Dom\Interfaces\ICompletionEntry.cs" />
+    <Compile Include="Dom\Interfaces\IDomProgressMonitor.cs" />
+    <Compile Include="Dom\Interfaces\IEntity.cs" />
+    <Compile Include="Dom\Interfaces\IEvent.cs" />
+    <Compile Include="Dom\Interfaces\IField.cs" />
+    <Compile Include="Dom\Interfaces\IFreezable.cs" />
+    <Compile Include="Dom\Interfaces\IMember.cs" />
+    <Compile Include="Dom\Interfaces\IMethod.cs" />
+    <Compile Include="Dom\Interfaces\IParameter.cs" />
+    <Compile Include="Dom\Interfaces\IProperty.cs" />
+    <Compile Include="Dom\Interfaces\IReturnType.cs" />
+    <Compile Include="Dom\Interfaces\ITypeParameter.cs" />
+    <Compile Include="Dom\Interfaces\IUsing.cs" />
+    <Compile Include="Dom\Interfaces\IUsingScope.cs" />
+    <Compile Include="Dom\Interfaces\ModifierEnum.cs" />
+    <Compile Include="Dom\Interfaces\ParameterModifiers.cs" />
+    <Compile Include="Dom\Interfaces\Region.cs" />
+    <Compile Include="Dom\IResolver.cs" />
+    <Compile Include="Dom\LanguageProperties.cs" />
+    <Compile Include="Dom\LazyList.cs" />
+    <Compile Include="Dom\LoggingService.cs" />
+    <Compile Include="Dom\MemberLookupHelper.cs" />
+    <Compile Include="Dom\NRefactoryResolver\CodeSnippetConverter.cs" />
+    <Compile Include="Dom\NRefactoryResolver\CSharpToVBNetConvertVisitor.cs" />
+    <Compile Include="Dom\NRefactoryResolver\InferredReturnType.cs" />
+    <Compile Include="Dom\NRefactoryResolver\LambdaParameterReturnType.cs" />
+    <Compile Include="Dom\NRefactoryResolver\LambdaReturnType.cs" />
+    <Compile Include="Dom\NRefactoryResolver\NRefactoryASTConvertVisitor.cs" />
+    <Compile Include="Dom\NRefactoryResolver\NRefactoryInformationProvider.cs" />
+    <Compile Include="Dom\NRefactoryResolver\NRefactoryResolver.cs" />
+    <Compile Include="Dom\NRefactoryResolver\ResolveVisitor.cs" />
+    <Compile Include="Dom\NRefactoryResolver\TypeVisitor.cs" />
+    <Compile Include="Dom\NRefactoryResolver\VBNetToCSharpConvertVisitor.cs" />
+    <Compile Include="Dom\ParameterListComparer.cs" />
+    <Compile Include="Dom\ProjectContent\DefaultProjectContent.cs" />
+    <Compile Include="Dom\ProjectContent\DomAssemblyName.cs" />
+    <Compile Include="Dom\ProjectContent\IProjectContent.cs" />
+    <Compile Include="Dom\ProjectContent\ParseInformation.cs" />
+    <Compile Include="Dom\ProjectContent\ProjectContentRegistry.cs" />
+    <Compile Include="Dom\ProjectContent\ReflectionProjectContent.cs" />
+    <Compile Include="Dom\ReadOnlyDictionary.cs" />
+    <Compile Include="Dom\Refactoring\CodeGenerator.cs" />
+    <Compile Include="Dom\Refactoring\CodeGeneratorOptions.cs" />
+    <Compile Include="Dom\Refactoring\CSharpCodeGenerator.cs" />
+    <Compile Include="Dom\Refactoring\IRefactoringDocument.cs" />
+    <Compile Include="Dom\Refactoring\NRefactoryCodeGenerator.cs" />
+    <Compile Include="Dom\Refactoring\NRefactoryRefactoringProvider.cs" />
+    <Compile Include="Dom\Refactoring\RefactoringProvider.cs" />
+    <Compile Include="Dom\Refactoring\TextFinder.cs" />
+    <Compile Include="Dom\Refactoring\VBNetCodeGenerator.cs" />
+    <Compile Include="Dom\ReflectionLayer\DomPersistence.cs" />
+    <Compile Include="Dom\ReflectionLayer\ReflectionClass.cs" />
+    <Compile Include="Dom\ReflectionLayer\ReflectionEvent.cs" />
+    <Compile Include="Dom\ReflectionLayer\ReflectionField.cs" />
+    <Compile Include="Dom\ReflectionLayer\ReflectionMethod.cs" />
+    <Compile Include="Dom\ReflectionLayer\ReflectionParameter.cs" />
+    <Compile Include="Dom\ReflectionLayer\ReflectionProperty.cs" />
+    <Compile Include="Dom\ReflectionLayer\ReflectionReturnType.cs" />
+    <Compile Include="Dom\ReflectionLayer\ReflectionTypeNameSyntaxError.cs" />
+    <Compile Include="Dom\ResolveResult.cs" />
+    <Compile Include="Dom\SignatureComparer.cs" />
+    <Compile Include="Dom\Tag.cs" />
+    <Compile Include="Dom\VBNet\IVBNetOptionProvider.cs" />
+    <Compile Include="Dom\VBNet\VBNetAmbience.cs" />
+    <Compile Include="Dom\VBNet\VBNetCompilationUnit.cs" />
+    <Compile Include="Dom\VBNet\VBNetExpressionFinder.cs" />
+    <Compile Include="Dom\XmlDoc.cs" />
+    <Compile Include="Gui\AbstractPadContent.cs" />
+    <Compile Include="Gui\AbstractSecondaryViewContent.cs" />
+    <Compile Include="Gui\AbstractViewContent.cs" />
+    <Compile Include="Gui\AbstractViewContentHandlingLoadErrors.cs" />
+    <Compile Include="Gui\AbstractViewContentWithoutFile.cs" />
+    <Compile Include="Gui\App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\BrowserDisplayBinding\BrowserCommands.cs" />
+    <Compile Include="Gui\BrowserDisplayBinding\BrowserDisplayBinding.cs" />
+    <Compile Include="Gui\BrowserDisplayBinding\BrowserLocationConditionEvaluator.cs" />
+    <Compile Include="Gui\BrowserDisplayBinding\ExtendedWebBrowser.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Gui\BrowserDisplayBinding\HtmlViewPane.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Gui\BrowserDisplayBinding\SchemeExtension.cs" />
+    <Compile Include="Gui\Components\StatusBar\FwStatusBar.cs" />
+    <Compile Include="Gui\ContentInterfaces\ICanBeDirty.cs" />
+    <Compile Include="Gui\ContentInterfaces\IClipboardHandler.cs" />
+    <Compile Include="Gui\ContentInterfaces\IContextHelpProvider.cs" />
+    <Compile Include="Gui\ContentInterfaces\ICustomizedCommands.cs" />
+    <Compile Include="Gui\ContentInterfaces\IPositionable.cs" />
+    <Compile Include="Gui\ContentInterfaces\IPrintable.cs" />
+    <Compile Include="Gui\ContentInterfaces\IUndoHandler.cs" />
+    <Compile Include="Gui\CustomFocusManager.cs" />
+    <Compile Include="Gui\Dialogs\AbstractOptionPanel.cs" />
+    <Compile Include="Gui\Dialogs\TabbedOptions.cs" />
+    <Compile Include="Gui\Dialogs\TabbedOptionsDialog.xaml.cs">
+      <DependentUpon>TabbedOptionsDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Dialogs\TreeViewOptionsDialog.xaml.cs">
+      <DependentUpon>TreeViewOptionsDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\EnumBinding.cs" />
+    <Compile Include="Gui\FormLocationHelper.cs" />
+    <Compile Include="Gui\IImage.cs" />
+    <Compile Include="Gui\IPadContent.cs" />
+    <Compile Include="Gui\IProgressMonitor.cs" />
+    <Compile Include="Gui\IViewContent.cs" />
+    <Compile Include="Gui\IWorkbench.cs" />
+    <Compile Include="Gui\IWorkbenchLayout.cs" />
+    <Compile Include="Gui\IWorkbenchWindow.cs" />
+    <Compile Include="Gui\ProgressCollector.cs" />
+    <Compile Include="Gui\SimpleViewContent.cs" />
+    <Compile Include="Gui\WorkbenchSingleton.cs" />
+    <Compile Include="Gui\Workbench\FullScreenEnabledWindow.cs" />
+    <Compile Include="Gui\Workbench\Layouts\AvalonDockLayout.cs" />
+    <Compile Include="Gui\Workbench\Layouts\AvalonPadContent.cs" />
+    <Compile Include="Gui\Workbench\Layouts\AvalonWorkbenchWindow.cs" />
+    <Compile Include="Gui\Workbench\Layouts\LayoutConfiguration.cs" />
+    <Compile Include="Gui\Workbench\SingleInstanceHelper.cs" />
+    <Compile Include="Gui\Workbench\ViewContentEventHandler.cs" />
+    <Compile Include="Gui\Workbench\WpfWorkbench.cs" />
+    <Compile Include="Internal\ConditionEvaluators\WindowActiveEvaluator.cs" />
+    <Compile Include="Internal\Doozers\DefaultOptionPanelDescriptor.cs" />
+    <Compile Include="Internal\Doozers\DirectoryDoozer.cs" />
+    <Compile Include="Internal\Doozers\IOptionPanel.cs" />
+    <Compile Include="Internal\Doozers\IOptionPanelDescriptor.cs" />
+    <Compile Include="Internal\Doozers\OptionPanelDoozer.cs" />
+    <Compile Include="Internal\Doozers\PadDescriptor.cs" />
+    <Compile Include="Internal\Doozers\PadDoozer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Ribbon\PadToRibbon.cs" />
+    <Compile Include="Ribbon\RibbonDoozer.cs" />
+    <Compile Include="Ribbon\RibMenu.cs" />
+    <Compile Include="Ribbon\RibMenuItem.cs" />
+    <Compile Include="Ribbon\RibbonService.cs" />
+    <Compile Include="Ribbon\RibButton.cs" />
+    <Compile Include="Ribbon\RibGroup.cs" />
+    <Compile Include="Ribbon\RibTab.cs" />
+    <Compile Include="Services\DisplayBinding\AutoDetectDisplayBinding.cs" />
+    <Compile Include="Services\DisplayBinding\DisplayBindingDescriptor.cs" />
+    <Compile Include="Services\DisplayBinding\DisplayBindingDoozer.cs" />
+    <Compile Include="Services\DisplayBinding\DisplayBindingService.cs" />
+    <Compile Include="Services\DisplayBinding\ExternalProcessDisplayBinding.cs" />
+    <Compile Include="Services\DisplayBinding\IDisplayBinding.cs" />
+    <Compile Include="Services\DisplayBinding\ISecondaryDisplayBinding.cs" />
+    <Compile Include="Services\DisplayBinding\ShellExecuteDisplayBinding.cs" />
+    <Compile Include="Services\FileIconService.cs" />
+    <Compile Include="Services\File\FileChangeWatcher.cs" />
+    <Compile Include="Services\File\FileEventArgs.cs" />
+    <Compile Include="Services\File\FileRenameEventArgs.cs" />
+    <Compile Include="Services\File\FileService.cs" />
+    <Compile Include="Services\File\OpenedFile.cs" />
+    <Compile Include="Services\File\RecentOpen.cs" />
+    <Compile Include="Services\HelpProvider.cs" />
+    <Compile Include="Services\IconService.cs" />
+    <Compile Include="Services\Language\Language.cs" />
+    <Compile Include="Services\Language\LanguageService.cs" />
+    <Compile Include="Services\MimeTypeDetection.cs" />
+    <Compile Include="Services\NavigationService\DefaultNavigationPoint.cs" />
+    <Compile Include="Services\NavigationService\INavigationPoint.cs" />
+    <Compile Include="Services\NavigationService\NavigationService.cs" />
+    <Compile Include="Services\StatusBar\StatusBarService.cs" />
+    <Compile Include="Util\DebugTimer.cs" />
+    <Compile Include="Util\DotnetDetection.cs" />
+    <Compile Include="Util\ExtensionMethods.cs" />
+    <Compile Include="Util\FakeXmlViewContent.cs" />
+    <Compile Include="Util\GenericConverter.cs" />
+    <Compile Include="Util\KeyComparer.cs" />
+    <Compile Include="Util\LineReceivedEventArgs.cs" />
+    <Compile Include="Util\MultiDictionary.cs" />
+    <Compile Include="Util\NativeMethods.cs" />
+    <Compile Include="Util\ProcessRunner.cs" />
+    <Compile Include="Util\ProcessRunnerException.cs" />
+    <Compile Include="Util\ReactiveExtensions.cs" />
+    <Compile Include="Util\ReadOnlyCollectionWrapper.cs" />
+    <Compile Include="Util\ScrollUtils.cs" />
+    <Compile Include="Util\SDWindowsFormsHost.cs" />
+    <Compile Include="Util\ThreadSafeServiceProvider.cs" />
+    <Compile Include="Util\TreeNode.cs" />
+    <Compile Include="Util\UnclosableStream.cs" />
+    <Compile Include="Util\WeakCollection.cs" />
+    <Compile Include="Util\WindowsFormsPrinting.cs" />
+    <Compile Include="Util\WorkerThread.cs" />
+    <Compile Include="Util\WpfSynchronizeInvoke.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="Gui\App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Gui\Dialogs\TabbedOptionsDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Gui\Dialogs\TreeViewOptionsDialog.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Gui\Workbench\WpfWorkbench.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Gui\Dialogs\OptionPanels\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

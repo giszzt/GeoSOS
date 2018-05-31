@@ -1,0 +1,53 @@
+﻿<AddIn name        = "GIS.AddIns.Common"
+       author      = "Zhang Han | Cai Junyi | Cui Xuesen"
+       copyright   = ""
+       url         = ""
+       description = "GIS.AddIns.Common"
+       addInManagerHidden = "true">
+
+  <Manifest>
+    <Identity name = "GIS.AddIns.Common"/>
+  </Manifest>
+
+  <Runtime>
+    <Import assembly="GIS.AddIns.Common.dll"/>
+  </Runtime>
+
+
+
+  <!-- Add To Ribbon 加载Ribbon Button -->
+  <Path name="/FrameWork/Ribbon/Start">
+    <Ribbon id="LoadData" name="LoadData" label="${res:Ribbon.Start.LoadData}" type="Group">
+      <Ribbon id="AddLayer" name="AddLayer" label="${res:Ribbon.Start.LoadData.AddLayer}" type="Button" icon="404_48px" class="GIS.AddIns.Common.AddLayerCommand"></Ribbon>
+    </Ribbon>
+    <Ribbon id="Navigation" name="Navigation" label="${res:Ribbon.Start.Navigation}" type="Group">
+      <Ribbon id="ZoomIn" name="ZoomIn" label="${res:Ribbon.Start.Navigation.ZoomIn}" type="Button" icon="404_48px" class="GIS.AddIns.Common.ZoomInCommand"/>
+      <Ribbon id="ZoomOut" name="ZoomOut" label="${res:Ribbon.Start.Navigation.ZoomOut}" type="Button" icon="404_48px" class="GIS.AddIns.Common.ZoomOutCommand"/>
+      <Ribbon id="Pan" name="Pan" label="${res:Ribbon.Start.Navigation.Pan}" type="Button" icon="404_48px" class="GIS.AddIns.Common.PanCommand"/>
+      <Ribbon id="FullExtent" name="FullExtent" label="${res:Ribbon.Start.Navigation.FullExtent}" type="Button" icon="404_48px" class="GIS.AddIns.Common.FullExtentCommand"/>
+      <Ribbon id="ZoomToPrevious" name="ZoomToPrevious" label="${res:Ribbon.Start.Navigation.ZoomToPrevious}" type="Button" icon="404_48px" class="GIS.AddIns.Common.ZoomToPreviousCommand"/>
+      <Ribbon id="ZoomToNext" name="ZoomToNext" label="${res:Ribbon.Start.Navigation.ZoomToNext}" type="Button" icon="404_48px" class="GIS.AddIns.Common.ZoomToNextCommand"/>
+    </Ribbon>
+    <Ribbon id="QueryAndStatistic" name="QueryAndStatistic" label="${res:Ribbon.Start.QueryAndStatistic}" type="Group">
+      <Ribbon id="Identify" name ="Identify" label="${res:Ribbon.Start.QueryAndStatistic.Identify}" type="Button" icon="404_48px" class="GIS.AddIns.Common.IdentifyCommand"/>
+    </Ribbon>
+    <Ribbon id="Measure" name="Measure" label="${res:Ribbon.Start.Measure}" type="Group">
+      <Ribbon id="Measure" name ="Measure" label="${res:Ribbon.Start.Measure.Measure}" type="Button" icon="404_48px" class="GIS.AddIns.Common.MeasureCommand"/>
+    </Ribbon>
+    <Ribbon id="ROI" name="ROI" label="${res:Ribbon.Start.ROI}" type="Group" insertafter="Measure">
+      <Ribbon id="DrawRectangle" name="DrawRectangle" label="${res:Ribbon.Start.ROI.DrawRectangle}" type="Button" icon="404_48px" class="GIS.AddIns.Common.ROIRectangleCommand"></Ribbon>
+      <Ribbon id="DrawPolygon" name="DrawPolygon" label="${res:Ribbon.Start.ROI.DrawPolygon}" type="Button" icon="404_48px" class="GIS.AddIns.Common.ROIPolygonCommand"></Ribbon>
+      <Ribbon id="DrawLine" name="DrawLine" label="${res:Ribbon.Start.ROI.DrawLine}" type="Button" icon="404_48px" class="GIS.AddIns.Common.ROILineCommand"></Ribbon>
+      <Ribbon id="DrawPoint" name="DrawPoint" label="${res:Ribbon.Start.ROI.DrawPoint}" type="Button" icon="404_48px" class="GIS.AddIns.Common.ROIPointCommand"></Ribbon>
+      <Ribbon id="DrawingSymbol" name="DrawingSymbol" label="${res:Ribbon.Start.ROI.DrawingSymbol}" type="Button" icon="404_48px" class="GIS.AddIns.Common.ROISymbolCommand"></Ribbon>
+      <Ribbon id="RemoveDrawedFeatures" name="RemoveDrawedFeatures" label="${res:Ribbon.Start.ROI.RemoveDrawedFeatures}" type="Button" icon="404_48px" class="GIS.AddIns.Common.ClearROICommand"></Ribbon>
+    </Ribbon>    
+  </Path>
+
+  <!-- Add Pad 加载Pad -->
+  <Path name="/FrameWork/Pads">
+  </Path>
+
+
+
+</AddIn>

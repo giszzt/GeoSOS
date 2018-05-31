@@ -1,0 +1,201 @@
+E:\John\SYSU\Code\GISProgram\OutPut\AddIns\GIS\Common\GIS.AddIns.Common.addin
+E:\John\SYSU\Code\GISProgram\OutPut\AddIns\GIS\Common\GIS.AddIns.Common.dll
+E:\John\SYSU\Code\GISProgram\OutPut\AddIns\GIS\Common\GIS.AddIns.Common.pdb
+E:\John\SYSU\Code\GISProgram\Code\AddIns.GIS.Common\obj\Debug\GIS.AddIns.Common.dll
+E:\John\SYSU\Code\GISProgram\Code\AddIns.GIS.Common\obj\Debug\GIS.AddIns.Common.pdb
+E:\John\SYSU\Code\GISProgram\Code\AddIns.GIS.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.resources
+E:\John\SYSU\Code\GISProgram\Code\AddIns.GIS.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.de-DE.resources
+E:\John\SYSU\Code\GISProgram\Code\AddIns.GIS.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.it-IT.resources
+E:\John\SYSU\Code\GISProgram\Code\AddIns.GIS.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.pt-BR.resources
+E:\John\SYSU\Code\GISProgram\Code\AddIns.GIS.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.zh-CN.resources
+E:\John\SYSU\Code\GISProgram\Code\AddIns.GIS.Common\obj\Debug\GIS.AddIns.Common.csproj.GenerateResource.Cache
+E:\John\SYSU\Code\GISProgram\OutPut\AddIns\GIS\Common\de-DE\GIS.AddIns.Common.resources.dll
+E:\John\SYSU\Code\GISProgram\OutPut\AddIns\GIS\Common\it-IT\GIS.AddIns.Common.resources.dll
+E:\John\SYSU\Code\GISProgram\OutPut\AddIns\GIS\Common\pt-BR\GIS.AddIns.Common.resources.dll
+E:\John\SYSU\Code\GISProgram\OutPut\AddIns\GIS\Common\zh-CN\GIS.AddIns.Common.resources.dll
+E:\John\SYSU\Code\GISProgram\Code\AddIns.GIS.Common\obj\Debug\GIS.AddIns.Common.Properties.Resources.resources
+E:\John\SYSU\Code\GISProgram\Code\AddIns.GIS.Common\obj\Debug\de-DE\GIS.AddIns.Common.resources.dll
+E:\John\SYSU\Code\GISProgram\Code\AddIns.GIS.Common\obj\Debug\it-IT\GIS.AddIns.Common.resources.dll
+E:\John\SYSU\Code\GISProgram\Code\AddIns.GIS.Common\obj\Debug\pt-BR\GIS.AddIns.Common.resources.dll
+E:\John\SYSU\Code\GISProgram\Code\AddIns.GIS.Common\obj\Debug\zh-CN\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\GISProgram\Output\AddIns\GIS\Common\GIS.AddIns.Common.addin
+C:\Users\Administrator\Desktop\GISProgram\Output\AddIns\GIS\Common\GIS.AddIns.Common.dll
+C:\Users\Administrator\Desktop\GISProgram\Output\AddIns\GIS\Common\GIS.AddIns.Common.pdb
+C:\Users\Administrator\Desktop\GISProgram\Output\AddIns\GIS\Common\de-DE\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\GISProgram\Output\AddIns\GIS\Common\it-IT\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\GISProgram\Output\AddIns\GIS\Common\pt-BR\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\GISProgram\Output\AddIns\GIS\Common\zh-CN\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.resources
+C:\Users\Administrator\Desktop\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.de-DE.resources
+C:\Users\Administrator\Desktop\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.it-IT.resources
+C:\Users\Administrator\Desktop\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.pt-BR.resources
+C:\Users\Administrator\Desktop\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.zh-CN.resources
+C:\Users\Administrator\Desktop\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\de-DE\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\it-IT\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\pt-BR\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\zh-CN\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.dll
+C:\Users\Administrator\Desktop\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.pdb
+X:\系统开发\GISProgam6.7\GISProgram\Output\AddIns\GIS\Common\GIS.AddIns.Common.addin
+X:\系统开发\GISProgam6.7\GISProgram\Output\AddIns\GIS\Common\GIS.AddIns.Common.dll
+X:\系统开发\GISProgam6.7\GISProgram\Output\AddIns\GIS\Common\GIS.AddIns.Common.pdb
+X:\系统开发\GISProgam6.7\GISProgram\Output\AddIns\GIS\Common\de-DE\GIS.AddIns.Common.resources.dll
+X:\系统开发\GISProgam6.7\GISProgram\Output\AddIns\GIS\Common\it-IT\GIS.AddIns.Common.resources.dll
+X:\系统开发\GISProgam6.7\GISProgram\Output\AddIns\GIS\Common\pt-BR\GIS.AddIns.Common.resources.dll
+X:\系统开发\GISProgam6.7\GISProgram\Output\AddIns\GIS\Common\zh-CN\GIS.AddIns.Common.resources.dll
+X:\系统开发\GISProgam6.7\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.csprojResolveAssemblyReference.cache
+X:\系统开发\GISProgam6.7\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.resources
+X:\系统开发\GISProgam6.7\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.Properties.Resources.resources
+X:\系统开发\GISProgam6.7\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.de-DE.resources
+X:\系统开发\GISProgam6.7\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.it-IT.resources
+X:\系统开发\GISProgam6.7\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.pt-BR.resources
+X:\系统开发\GISProgam6.7\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.zh-CN.resources
+X:\系统开发\GISProgam6.7\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.csproj.GenerateResource.Cache
+X:\系统开发\GISProgam6.7\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\de-DE\GIS.AddIns.Common.resources.dll
+X:\系统开发\GISProgam6.7\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\it-IT\GIS.AddIns.Common.resources.dll
+X:\系统开发\GISProgam6.7\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\pt-BR\GIS.AddIns.Common.resources.dll
+X:\系统开发\GISProgam6.7\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\zh-CN\GIS.AddIns.Common.resources.dll
+X:\系统开发\GISProgam6.7\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.dll
+X:\系统开发\GISProgam6.7\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.pdb
+X:\系统开发\GISProgram6.13\GISProgram\Output\AddIns\GIS\Common\GIS.AddIns.Common.addin
+X:\系统开发\GISProgram6.13\GISProgram\Output\AddIns\GIS\Common\GIS.AddIns.Common.dll
+X:\系统开发\GISProgram6.13\GISProgram\Output\AddIns\GIS\Common\GIS.AddIns.Common.pdb
+X:\系统开发\GISProgram6.13\GISProgram\Output\AddIns\GIS\Common\de-DE\GIS.AddIns.Common.resources.dll
+X:\系统开发\GISProgram6.13\GISProgram\Output\AddIns\GIS\Common\it-IT\GIS.AddIns.Common.resources.dll
+X:\系统开发\GISProgram6.13\GISProgram\Output\AddIns\GIS\Common\pt-BR\GIS.AddIns.Common.resources.dll
+X:\系统开发\GISProgram6.13\GISProgram\Output\AddIns\GIS\Common\zh-CN\GIS.AddIns.Common.resources.dll
+X:\系统开发\GISProgram6.13\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.resources
+X:\系统开发\GISProgram6.13\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.Properties.Resources.resources
+X:\系统开发\GISProgram6.13\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.de-DE.resources
+X:\系统开发\GISProgram6.13\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.it-IT.resources
+X:\系统开发\GISProgram6.13\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.pt-BR.resources
+X:\系统开发\GISProgram6.13\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.zh-CN.resources
+X:\系统开发\GISProgram6.13\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.csproj.GenerateResource.Cache
+X:\系统开发\GISProgram6.13\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\de-DE\GIS.AddIns.Common.resources.dll
+X:\系统开发\GISProgram6.13\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\it-IT\GIS.AddIns.Common.resources.dll
+X:\系统开发\GISProgram6.13\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\pt-BR\GIS.AddIns.Common.resources.dll
+X:\系统开发\GISProgram6.13\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\zh-CN\GIS.AddIns.Common.resources.dll
+X:\系统开发\GISProgram6.13\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.dll
+X:\系统开发\GISProgram6.13\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.pdb
+X:\系统开发\GISProgram6.13\GISProgram\Code\AddIns\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\Output\AddIns\GIS\Common\GIS.AddIns.Common.addin
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\Output\AddIns\GIS\Common\GIS.AddIns.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\Output\AddIns\GIS\Common\GIS.AddIns.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\Output\AddIns\GIS\Common\de-DE\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\Output\AddIns\GIS\Common\it-IT\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\Output\AddIns\GIS\Common\pt-BR\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\Output\AddIns\GIS\Common\zh-CN\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.de-DE.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.it-IT.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.pt-BR.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.zh-CN.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\de-DE\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\it-IT\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\pt-BR\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\zh-CN\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\bin\AddIns\GIS\Common\GIS.AddIns.Common.addin
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\bin\AddIns\GIS\Common\GIS.AddIns.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\bin\AddIns\GIS\Common\GIS.AddIns.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\bin\AddIns\GIS\Common\de-DE\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\bin\AddIns\GIS\Common\it-IT\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\bin\AddIns\GIS\Common\pt-BR\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\bin\AddIns\GIS\Common\zh-CN\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\GIS\Common\GIS.AddIns.Common.addin
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\GIS\Common\GIS.AddIns.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\GIS\Common\GIS.AddIns.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\GIS\Common\de-DE\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\GIS\Common\it-IT\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\GIS\Common\pt-BR\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\GIS\Common\zh-CN\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\x\0.0.1.6\OutPut\AddIns\GIS\Common\GIS.AddIns.Common.addin
+C:\Users\Administrator\Desktop\x\0.0.1.6\OutPut\AddIns\GIS\Common\GIS.AddIns.Common.dll
+C:\Users\Administrator\Desktop\x\0.0.1.6\OutPut\AddIns\GIS\Common\GIS.AddIns.Common.pdb
+C:\Users\Administrator\Desktop\x\0.0.1.6\OutPut\AddIns\GIS\Common\de-DE\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\x\0.0.1.6\OutPut\AddIns\GIS\Common\it-IT\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\x\0.0.1.6\OutPut\AddIns\GIS\Common\pt-BR\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\x\0.0.1.6\OutPut\AddIns\GIS\Common\zh-CN\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\x\0.0.1.6\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\x\0.0.1.6\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.resources
+C:\Users\Administrator\Desktop\x\0.0.1.6\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.Properties.Resources.resources
+C:\Users\Administrator\Desktop\x\0.0.1.6\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.de-DE.resources
+C:\Users\Administrator\Desktop\x\0.0.1.6\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.it-IT.resources
+C:\Users\Administrator\Desktop\x\0.0.1.6\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.pt-BR.resources
+C:\Users\Administrator\Desktop\x\0.0.1.6\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.zh-CN.resources
+C:\Users\Administrator\Desktop\x\0.0.1.6\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\x\0.0.1.6\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\x\0.0.1.6\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\de-DE\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\x\0.0.1.6\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\it-IT\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\x\0.0.1.6\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\pt-BR\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\x\0.0.1.6\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\zh-CN\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\x\0.0.1.6\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.dll
+C:\Users\Administrator\Desktop\x\0.0.1.6\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.pdb
+C:\Users\Administrator\Desktop\x\0.0.1.7\OutPut\AddIns\GIS\Common\GIS.AddIns.Common.addin
+C:\Users\Administrator\Desktop\x\0.0.1.7\OutPut\AddIns\GIS\Common\GIS.AddIns.Common.dll
+C:\Users\Administrator\Desktop\x\0.0.1.7\OutPut\AddIns\GIS\Common\GIS.AddIns.Common.pdb
+C:\Users\Administrator\Desktop\x\0.0.1.7\OutPut\AddIns\GIS\Common\de-DE\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\x\0.0.1.7\OutPut\AddIns\GIS\Common\it-IT\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\x\0.0.1.7\OutPut\AddIns\GIS\Common\pt-BR\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\x\0.0.1.7\OutPut\AddIns\GIS\Common\zh-CN\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\x\0.0.1.7\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\x\0.0.1.7\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.resources
+C:\Users\Administrator\Desktop\x\0.0.1.7\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.Properties.Resources.resources
+C:\Users\Administrator\Desktop\x\0.0.1.7\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.de-DE.resources
+C:\Users\Administrator\Desktop\x\0.0.1.7\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.it-IT.resources
+C:\Users\Administrator\Desktop\x\0.0.1.7\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.pt-BR.resources
+C:\Users\Administrator\Desktop\x\0.0.1.7\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.zh-CN.resources
+C:\Users\Administrator\Desktop\x\0.0.1.7\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\x\0.0.1.7\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Desktop\x\0.0.1.7\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\de-DE\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\x\0.0.1.7\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\it-IT\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\x\0.0.1.7\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\pt-BR\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\x\0.0.1.7\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\zh-CN\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator\Desktop\x\0.0.1.7\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.dll
+C:\Users\Administrator\Desktop\x\0.0.1.7\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.pdb
+D:\Git\GeoSOS\OutPut\AddIns\GIS\Common\GIS.AddIns.Common.addin
+D:\Git\GeoSOS\OutPut\AddIns\GIS\Common\GIS.AddIns.Common.dll
+D:\Git\GeoSOS\OutPut\AddIns\GIS\Common\GIS.AddIns.Common.pdb
+D:\Git\GeoSOS\OutPut\AddIns\GIS\Common\de-DE\GIS.AddIns.Common.resources.dll
+D:\Git\GeoSOS\OutPut\AddIns\GIS\Common\it-IT\GIS.AddIns.Common.resources.dll
+D:\Git\GeoSOS\OutPut\AddIns\GIS\Common\pt-BR\GIS.AddIns.Common.resources.dll
+D:\Git\GeoSOS\OutPut\AddIns\GIS\Common\zh-CN\GIS.AddIns.Common.resources.dll
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.resources
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.Properties.Resources.resources
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.de-DE.resources
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.it-IT.resources
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.pt-BR.resources
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.zh-CN.resources
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.csproj.GenerateResource.Cache
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\de-DE\GIS.AddIns.Common.resources.dll
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\it-IT\GIS.AddIns.Common.resources.dll
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\pt-BR\GIS.AddIns.Common.resources.dll
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\zh-CN\GIS.AddIns.Common.resources.dll
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.dll
+D:\Git\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.pdb
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\OutPut\AddIns\GIS\Common\GIS.AddIns.Common.addin
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\OutPut\AddIns\GIS\Common\GIS.AddIns.Common.dll
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\OutPut\AddIns\GIS\Common\GIS.AddIns.Common.pdb
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\OutPut\AddIns\GIS\Common\de-DE\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\OutPut\AddIns\GIS\Common\it-IT\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\OutPut\AddIns\GIS\Common\pt-BR\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\OutPut\AddIns\GIS\Common\zh-CN\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.Properties.Resources.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.de-DE.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.it-IT.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.pt-BR.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.MeasureDialog.zh-CN.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.csproj.GenerateResource.Cache
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\de-DE\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\it-IT\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\pt-BR\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\zh-CN\GIS.AddIns.Common.resources.dll
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.dll
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\AddIns\GIS\GIS.AddIns.Common\obj\Debug\GIS.AddIns.Common.pdb

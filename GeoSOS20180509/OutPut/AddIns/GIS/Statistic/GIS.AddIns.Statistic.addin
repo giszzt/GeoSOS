@@ -1,0 +1,41 @@
+﻿<AddIn name        = "GIS.AddIns.Statistic"
+       author      = "Zhong ZhenTao"
+       copyright   = ""
+       url         = ""
+       description = "GIS.AddIns.Statistic"
+       addInManagerHidden = "true">
+
+  <Manifest>
+    <Identity name = "GIS.AddIns.Statistic"/>
+  </Manifest>
+
+  <Runtime>
+    <Import assembly="GIS.AddIns.Statistic.dll"/>
+  </Runtime>
+
+  <!-- Add To Ribbon 加载Ribbon Button -->
+  <Path name="/FrameWork/Ribbon/Start/QueryAndStatistic">
+    <Ribbon id="Statistic" name="Statistic" label="${res:Ribbon.Start.QueryAndStatistic.Statistic}" type="Button" icon="404_48px" class="GIS.AddIns.Statistic.StatisticCommand"></Ribbon>
+  </Path>
+
+  <Path name = "/FrameWork/ToolStrips/StatisticPlot">
+    <ToolbarItem id = "SetPlot"  icon = "404_32px"  tooltip = "SetPlot"  class = "GIS.AddIns.Statistic.SetPlotCommand" type="Item"/>
+    <ToolbarItem id = " ClearPlot"  icon = "404_32px"  tooltip = " ClearPlot"  class = "GIS.AddIns.Statistic.ClearPlotCommand" type="Item"/>
+    <ToolbarItem id = " CenterPlot"  icon = "404_32px"  tooltip = " CenterPlot"  class = "GIS.AddIns.Statistic.CenterPlotCommand" type="Item"/>
+    <ToolbarItem id = " AttributeSetting"  icon = "404_32px"  tooltip = " AttributeSetting"  class = "GIS.AddIns.Statistic.AttributeSetting" type="Item"/>
+    <ToolbarItem id = " ExportImage"  icon = "404_32px"  tooltip = " ExportImage"  class = "GIS.AddIns.Statistic.ExportImageCommand" type="Item"/>
+  </Path>
+
+  <!-- Pads -->
+  <Path name="/FrameWork/Pads">
+    <Pad id       = "StatisticPlotPad"
+         category = "Main"
+         title    = "ToolPad"
+         icon     = "404_48px"
+         class    = "PlotToolStrip.StatisticPlotPad"
+         defaultPosition = "Bottom" />
+  </Path>
+  
+  <StringResources file="Resources\StringResources.resources" />
+  
+</AddIn>

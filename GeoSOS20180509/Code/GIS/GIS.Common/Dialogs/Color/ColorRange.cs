@@ -1,0 +1,85 @@
+using System.Drawing;
+using DotSpatial.Symbology;
+
+namespace GIS.Common.Dialogs
+{
+    /// <summary>
+    /// ColorRange
+    /// </summary>
+    public class ColorRange
+    {
+        private Color _color;
+        private Range _range;
+
+        /// <summary>
+        /// Generates a color range with no limits and the color gray.
+        /// </summary>
+        public ColorRange()
+        {
+            _color = Color.Gray;
+            _range = new Range(null, null);
+        }
+
+        /// <summary>
+        /// Generates a color range with no limits of the specified color
+        /// </summary>
+        /// <param name="color">The Color to use</param>
+        public ColorRange(Color color)
+        {
+            _color = color;
+            _range = new Range(null, null);
+        }
+
+        /// <summary>
+        /// Generates a color range with the specified color and range.
+        /// </summary>
+        /// <param name="color">The Color to use for this range</param>
+        /// <param name="range">The numeric bounds to use for this color.</param>
+        public ColorRange(Color color, Range range)
+        {
+            _color = color;
+            _range = range;
+        }
+
+        /// <summary>
+        /// Creates a new ColorRange using the specified color and the specified
+        /// nullable double values.  A null value represents an unbounded range.
+        /// </summary>
+        /// <param name="color">The Color to use.</param>
+        /// <param name="min">A double value representing the minimum value (inclusive).</param>
+        /// <param name="max">A double value representing the maximum (exclusive).</param>
+        public ColorRange(Color color, double? min, double? max)
+        {
+            _color = color;
+            _range = new Range(min, max);
+        }
+
+        /// <summary>
+        /// Gets or sets the Color for this range.
+        /// </summary>
+        public Color Color
+        {
+            get { return _color; }
+            set { _color = value; }
+        }
+
+        /// <summary>
+        /// Gets or sets the numeric range for which the color is valid.
+        /// </summary>
+        public Range Range
+        {
+            get { return _range; }
+            set { _range = value; }
+        }
+
+        /// <summary>
+        /// Gets a boolean that is true if the specified value falls within the specified range.
+        /// </summary>
+        /// <param name="value">The double value to test</param>
+        /// <returns>Boolean, true if the value is within the Range.</returns>
+        public bool Contains(double value)
+        {
+            return _range.Contains(value);
+        }
+    }
+}

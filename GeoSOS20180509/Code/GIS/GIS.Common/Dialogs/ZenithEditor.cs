@@ -1,0 +1,89 @@
+using System;
+using System.ComponentModel;
+using System.Drawing;
+using System.Drawing.Design;
+using System.Windows.Forms.Design;
+
+namespace GIS.Common.Dialogs
+{
+    /// <summary>
+    /// OpacityEditor
+    /// </summary>
+    public class ZenithEditor : UITypeEditor
+    {
+        #region Private Variables
+
+        IWindowsFormsEditorService _dialogProvider;
+
+        #endregion
+
+        #region Constructors
+
+        #endregion
+
+        #region Methods
+
+        /// <summary>
+        /// Edits the value by showing a slider control in the drop down.
+        /// </summary>
+        /// <param name="context"></param>
+        /// <param name="provider"></param>
+        /// <param name="value"></param>
+        /// <returns></returns>
+        public override object EditValue(ITypeDescriptorContext context, IServiceProvider provider, object value)
+        {
+            _dialogProvider = provider.GetService(typeof(IWindowsFormsEditorService)) as IWindowsFormsEditorService;
+            RampSlider rs = new RampSlider();
+            rs.Maximum = 90;
+            rs.Minimum = 0;
+            rs.MaximumColor = Color.SteelBlue;
+            rs.MinimumColor = Color.Transparent;
+            rs.RampText = "Zenith";
+            rs.RampTextBehindRamp = false;
+            rs.Value = Convert.ToDouble(value);
+            rs.ValueChanged += RsValueChanged;
+            rs.ShowValue = false;
+            rs.Width = 75;
+            rs.Height = 50;
+            if (_dialogProvider != null) _dialogProvider.DropDownControl(rs);
+            return (float)rs.Value;
+        }
+
+        private void RsValueChanged(object sender, EventArgs e)
+        {
+            _dialogProvider.CloseDropDown();
+        }
+
+        /// <summary>
+        /// Sets the behavior to drop-down
+        /// </summary>
+        /// <param name="context"></param>
+        /// <returns></returns>
+        public override UITypeEditorEditStyle GetEditStyle(ITypeDescriptorContext context)
+        {
+            return UITypeEditorEditStyle.DropDown;
+        }
+
+        #endregion
+
+        #region Properties
+
+        /// <summary>
+        /// Ensures that we can widen the drop-down without having to close the drop down,
+        /// widen the control, and re-open it again.
+        /// </summary>
+        public override bool IsDropDownResizable
+        {
+            get
+            {
+                return true;
+            }
+        }
+
+        #endregion
+
+        #region Protected Methods
+
+        #endregion
+    }
+}

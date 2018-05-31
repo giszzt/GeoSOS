@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Factors>
+  <Factor name="自然要素因子">
+    <FactorZones name="地形">
+      <FactorZone name="＞35°坡地">
+        <Source isSDE="False">c:\多规\冲突检测测试数据.gdb\CG</Source>
+        <Target isSDE="False">c:\多规\冲突检测测试数据.gdb\CG</Target>
+        <SQL>
+        </SQL>
+        <Buffer>50</Buffer>
+      </FactorZone>
+    </FactorZones>
+    <FactorZones name="水资源">
+      <FactorZone name="距离自然水域50范围">
+        <Source isSDE="False">c:\多规\冲突检测测试数据.gdb\LG</Source>
+        <Target isSDE="False">c:\多规\冲突检测测试数据.gdb\LG</Target>
+        <SQL>
+        </SQL>
+        <Buffer>30</Buffer>
+      </FactorZone>
+    </FactorZones>
+    <FactorZones name="高程">
+      <FactorZone name="＞1800米">
+        <Source isSDE="False">c:\多规\冲突检测测试数据.gdb\TG</Source>
+        <Target isSDE="False">c:\多规\冲突检测测试数据.gdb\TG</Target>
+        <SQL>
+        </SQL>
+        <Buffer>0</Buffer>
+      </FactorZone>
+    </FactorZones>
+  </Factor>
+  <Factor name="经济要素因子">
+    <FactorZones name="GDP">
+      <FactorZone name="高">
+        <Source isSDE="False">
+        </Source>
+        <Target isSDE="False">
+        </Target>
+        <SQL>
+        </SQL>
+        <Buffer>0</Buffer>
+      </FactorZone>
+    </FactorZones>
+  </Factor>
+  <Factor name="人口要素因子">
+    <FactorZones name="人口密度分布">
+      <FactorZone name="高">
+        <Source isSDE="False">
+        </Source>
+        <Target isSDE="False">
+        </Target>
+        <SQL>
+        </SQL>
+        <Buffer>0</Buffer>
+      </FactorZone>
+    </FactorZones>
+  </Factor>
+</Factors>

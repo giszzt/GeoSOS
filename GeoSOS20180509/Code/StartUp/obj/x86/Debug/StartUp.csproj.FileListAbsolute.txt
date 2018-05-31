@@ -1,0 +1,26 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\bin\StartUp.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\bin\StartUp.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\bin\StartUp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\bin\AvalonDock.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\bin\ICSharpCode.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\bin\ICSharpCode.SharpDevelop.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\bin\AvalonDock.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\bin\ICSharpCode.Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\bin\ICSharpCode.Core.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\bin\ICSharpCode.SharpDevelop.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\obj\x86\Debug\StartUp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\obj\x86\Debug\StartUp.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\obj\x86\Debug\StartUp.pdb
+I:\FrameWork\0.0.0.6\MainProgram\StartUp\bin\StartUp.exe.config
+I:\FrameWork\0.0.0.6\MainProgram\StartUp\obj\x86\Debug\StartUp.exe
+I:\FrameWork\0.0.0.6\MainProgram\StartUp\obj\x86\Debug\StartUp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\obj\x86\Debug\Themes\aero.normalcolor.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\obj\x86\Debug\StartUp_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\obj\x86\Debug\StartUp.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\obj\x86\Debug\Themes\dev2010.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\obj\x86\Debug\Themes\ExpressionDark.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\bin\ICSharpCode.Core.Presentation.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\bin\ICSharpCode.Core.WinForms.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\bin\log4net.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\bin\ICSharpCode.Core.Presentation.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\bin\ICSharpCode.Core.WinForms.pdb

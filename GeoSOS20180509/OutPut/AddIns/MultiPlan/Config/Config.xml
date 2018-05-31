@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Config>
+  <!-->缺省的路径，存放冲突检测过程及结果数据<-->
+  <!-->GKQ-管控区；CTTB-冲突图斑；XTYZ-协调因子；XTMX-协调模型；LT-蓝图<-->
+  <DefaultDataSet>
+    <GKQSet>C:\多规\MultiPlan10.2\bin\Debug\Data\MultiPlan.gdb\GKQ</GKQSet>
+    <CTTBSet>C:\多规\MultiPlan10.2\bin\Debug\Data\MultiPlan.gdb\CTTB</CTTBSet>
+    <XTYZSet>C:\多规\MultiPlan10.2\bin\Debug\Data\MultiPlan.gdb\XTYZ</XTYZSet>
+    <XTMXSet>C:\多规\MultiPlan10.2\bin\Debug\Data\MultiPlan.gdb\XTMX</XTMXSet>
+    <LTSet>C:\多规\MultiPlan10.2\bin\Debug\Data\MultiPlan.gdb\LT</LTSet>
+  </DefaultDataSet>
+  <!-->连接SDE<-->
+  <ConnectSDE>
+    <Server>172.26.40.198</Server>
+    <User>hzgisdata</User>
+    <Password>hzgisdata</Password>
+  </ConnectSDE>
+</Config>

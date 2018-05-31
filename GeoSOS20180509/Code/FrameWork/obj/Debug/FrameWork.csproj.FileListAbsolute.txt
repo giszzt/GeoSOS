@@ -1,0 +1,76 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\bin\FrameWork.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\bin\FrameWork.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\FrameWork\obj\Debug\Gui\App.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\FrameWork\obj\Debug\Gui\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\FrameWork\obj\Debug\Gui\Workbench\WpfWorkbench.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\FrameWork\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\FrameWork\obj\Debug\FrameWork_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\FrameWork\obj\Debug\FrameWork_MarkupCompile.lref
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\FrameWork\obj\Debug\Gui\Workbench\WpfWorkbench.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\FrameWork\obj\Debug\FrameWork.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\FrameWork\obj\Debug\FrameWork.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\FrameWork.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\FrameWork.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\FrameWork\obj\Debug\FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\FrameWork\obj\Debug\Gui\App.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\FrameWork\obj\Debug\Gui\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\FrameWork\obj\Debug\Gui\Workbench\WpfWorkbench.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\FrameWork\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\FrameWork\obj\Debug\FrameWork_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\FrameWork\obj\Debug\FrameWork_MarkupCompile.lref
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\FrameWork\obj\Debug\Gui\Workbench\WpfWorkbench.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\FrameWork\obj\Debug\FrameWork.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\FrameWork\obj\Debug\FrameWork.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\Gui\App.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\Gui\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\Gui\Workbench\WpfWorkbench.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\FrameWork_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\FrameWork_MarkupCompile.lref
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\FrameWork.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\Library\FrameWork\FrameWork.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\Library\FrameWork\FrameWork.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\Gui\Workbench\WpfWorkbench.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\FrameWork.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\Gui\Dialogs\TabbedOptionsDialog.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\Gui\Dialogs\TabbedOptionsDialog.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\Gui\Dialogs\TreeViewOptionsDialog.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\Gui\Dialogs\TreeViewOptionsDialog.g.cs
+E:\开发文档\AddIn手册及Demo\AddInDemo\OutPut\Library\FrameWork\FrameWork.dll
+E:\开发文档\AddIn手册及Demo\AddInDemo\OutPut\Library\FrameWork\FrameWork.pdb
+E:\开发文档\AddIn手册及Demo\AddInDemo\OutPut\Library\SharpDevelop\FrameWork.dll
+E:\开发文档\AddIn手册及Demo\AddInDemo\OutPut\Library\SharpDevelop\FrameWork.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\OutPut\Library\FrameWork\FrameWork.dll
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\OutPut\Library\FrameWork\FrameWork.pdb
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\Gui\App.baml
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\Gui\Dialogs\TabbedOptionsDialog.baml
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\Gui\Dialogs\TreeViewOptionsDialog.baml
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\Gui\App.g.cs
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\Gui\Dialogs\TabbedOptionsDialog.g.cs
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\Gui\Dialogs\TreeViewOptionsDialog.g.cs
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\Gui\Workbench\WpfWorkbench.g.cs
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\FrameWork_MarkupCompile.cache
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\FrameWork_MarkupCompile.lref
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\Gui\Workbench\WpfWorkbench.baml
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\FrameWork.g.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\FrameWork.dll
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\FrameWork\obj\Debug\FrameWork.pdb
+D:\Git\GeoSOS\Code\FrameWork\obj\Debug\FrameWork.csprojResolveAssemblyReference.cache
+D:\Git\GeoSOS\Code\FrameWork\obj\Debug\Gui\App.baml
+D:\Git\GeoSOS\Code\FrameWork\obj\Debug\Gui\Dialogs\TabbedOptionsDialog.baml
+D:\Git\GeoSOS\Code\FrameWork\obj\Debug\Gui\Dialogs\TreeViewOptionsDialog.baml
+D:\Git\GeoSOS\Code\FrameWork\obj\Debug\Gui\App.g.cs
+D:\Git\GeoSOS\Code\FrameWork\obj\Debug\Gui\Dialogs\TabbedOptionsDialog.g.cs
+D:\Git\GeoSOS\Code\FrameWork\obj\Debug\Gui\Dialogs\TreeViewOptionsDialog.g.cs
+D:\Git\GeoSOS\Code\FrameWork\obj\Debug\Gui\Workbench\WpfWorkbench.g.cs
+D:\Git\GeoSOS\Code\FrameWork\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Git\GeoSOS\Code\FrameWork\obj\Debug\FrameWork_MarkupCompile.cache
+D:\Git\GeoSOS\Code\FrameWork\obj\Debug\FrameWork_MarkupCompile.lref
+D:\Git\GeoSOS\Code\FrameWork\obj\Debug\Gui\Workbench\WpfWorkbench.baml
+D:\Git\GeoSOS\Code\FrameWork\obj\Debug\FrameWork.g.resources
+D:\Git\GeoSOS\Code\FrameWork\obj\Debug\FrameWork.pdb

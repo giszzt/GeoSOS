@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{111BA51B-E536-436C-92D3-41B2CE4BA28A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GIS.AddIns.Overlay</RootNamespace>
+    <AssemblyName>GIS.AddIns.Overlay</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\..\OutPut\AddIns\GIS\Overlay\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DotSpatial.Controls">
+      <HintPath>..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.Controls.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DotSpatial.Data">
+      <HintPath>..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.Data.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DotSpatial.Symbology">
+      <HintPath>..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.Symbology.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FrameWork">
+      <HintPath>..\..\..\..\OutPut\Library\FrameWork\FrameWork.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="gdalconst_csharp">
+      <HintPath>..\..\..\..\OutPut\Library\GDAL\gdalconst_csharp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="gdal_csharp">
+      <HintPath>..\..\..\..\OutPut\Library\GDAL\gdal_csharp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="GIS.FrameWork">
+      <HintPath>..\..\..\..\OutPut\Library\GIS\GIS.FrameWork.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="GIS.GDAL">
+      <HintPath>..\..\..\..\OutPut\Library\GIS\GIS.GDAL.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ICSharpCode.Core">
+      <HintPath>..\..\..\..\OutPut\Library\SharpDevelop\ICSharpCode.Core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ogr_csharp">
+      <HintPath>..\..\..\..\OutPut\Library\GDAL\ogr_csharp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="osr_csharp">
+      <HintPath>..\..\..\..\OutPut\Library\GDAL\osr_csharp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EraseCommand.cs" />
+    <Compile Include="ClipCommand.cs" />
+    <Compile Include="OverlayOperate.cs" />
+    <Compile Include="UpdateCommand.cs" />
+    <Compile Include="IdentityCommand.cs" />
+    <Compile Include="SymDifferenceCommand.cs" />
+    <Compile Include="UnionCommand.cs" />
+    <Compile Include="IntersectionCommand.cs" />
+    <Compile Include="OverlayDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OverlayDialog.Designer.cs">
+      <DependentUpon>OverlayDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="GIS.AddIns.Overlay.addin">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="OverlayDialog.resx">
+      <DependentUpon>OverlayDialog.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

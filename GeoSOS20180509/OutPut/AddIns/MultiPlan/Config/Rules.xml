@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="GB2312"?>
+<Rules blueMapAddress="C:\Users\biqih\Desktop\bin新版2\bin\Debug\Data\MultiPlan.gdb\LT\蓝图" isSDE="False">
+  <Rule name="土规、城规冲突">
+    <Conflict name="土规建设用地_城规非建设用地" type="土规建设用地,城规非建设用地" address="C:\Users\biqih\Desktop\bin20160104\bin\Debug\Data\MultiPlan.gdb\CTTB\土规建设用地_城规非建设用地">
+      <ControlZone name="土地规划.建设用地管控区" />
+      <ControlZone name="城市规划.非建设用地管控区" />
+    </Conflict>
+  </Rule>
+  <Rule name="土规、林规冲突">
+    <Conflict name="土规基本农田保护区_林规二级管控区" type="土规基本农田保护区，林规二级管控区" address="C:\Users\biqih\Desktop\bin20160104\bin\Debug\Data\MultiPlan.gdb\CTTB\土规基本农田保护区_林规二级管控区">
+      <ControlZone name="土地规划.基本农田保护区" />
+      <ControlZone name="林业规划.二级管控区" />
+    </Conflict>
+  </Rule>
+  <Rule name="A and B">
+    <Conflict name="AB" type="A和B冲突" address="E:\Data\MultiPlan\AB.shp.shp">
+      <ControlZone name="ID0" />
+      <ControlZone name="ID0" />
+    </Conflict>
+  </Rule>
+</Rules>

@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8B5545BE-013F-4B64-BD14-875BF3603A6F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GIS.AddIns.Legend</RootNamespace>
+    <AssemblyName>GIS.AddIns.Legend</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\..\OutPut\AddIns\GIS\Legend\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DotSpatial.Controls">
+      <HintPath>..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.Controls.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DotSpatial.Data">
+      <HintPath>..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.Data.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DotSpatial.Data.Forms">
+      <HintPath>..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.Data.Forms.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DotSpatial.GeoAPI">
+      <HintPath>..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.GeoAPI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DotSpatial.Serialization">
+      <HintPath>..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.Serialization.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DotSpatial.Symbology">
+      <HintPath>..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.Symbology.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FrameWork">
+      <HintPath>..\..\..\..\OutPut\Library\FrameWork\FrameWork.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="GIS.Common">
+      <HintPath>..\..\..\..\OutPut\Library\GIS\GIS.Common.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="GIS.FrameWork">
+      <HintPath>..\..\..\..\OutPut\Library\GIS\GIS.FrameWork.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="GIS.GDAL">
+      <HintPath>..\..\..\..\OutPut\Library\GIS\GIS.GDAL.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.Core">
+      <HintPath>..\..\..\..\OutPut\Library\SharpDevelop\ICSharpCode.Core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClearSelectionCommand.cs" />
+    <Compile Include="OpenAttributeCommand.cs" />
+    <Compile Include="ExportDataCommand.cs" />
+    <Compile Include="LabelSetupCommand.cs" />
+    <Compile Include="ProjectionCommand.cs" />
+    <Compile Include="PropertiesCommand.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RemoveLayerCommand.cs" />
+    <Compile Include="RemoveMapFrameCommand.cs" />
+    <Compile Include="SelectByROICommand.cs" />
+    <Compile Include="SelectByPolygonCommand.cs" />
+    <Compile Include="SetDynamicVisibilityScaleCommand.cs" />
+    <Compile Include="SetLabelVisibilityScaleCommand.cs" />
+    <Compile Include="SymbologyCommand.cs" />
+    <Compile Include="ZoomToLayerCommand.cs" />
+    <Compile Include="ZoomToMapFrameCammand.cs" />
+    <Compile Include="ZoomToSelectedFeaturesCommand.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="GIS.AddIns.Legend.addin">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

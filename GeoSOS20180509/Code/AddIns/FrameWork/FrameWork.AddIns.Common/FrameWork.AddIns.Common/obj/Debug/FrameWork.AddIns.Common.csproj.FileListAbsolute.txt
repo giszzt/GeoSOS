@@ -1,0 +1,16 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\FrameWork\Common\FrameWork.AddIns.Common.addin
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\FrameWork\Common\FrameWork.AddIns.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\FrameWork\Common\FrameWork.AddIns.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\FrameWork\FrameWork.AddIns.Common\FrameWork.AddIns.Common\obj\Debug\FrameWork.AddIns.Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\FrameWork\FrameWork.AddIns.Common\FrameWork.AddIns.Common\obj\Debug\FrameWork.AddIns.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\FrameWork\FrameWork.AddIns.Common\FrameWork.AddIns.Common\obj\Debug\FrameWork.AddIns.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\FrameWork\FrameWork.AddIns.Common\FrameWork.AddIns.Common\obj\Debug\FrameWork.AddIns.Common.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\FrameWork\FrameWork.AddIns.Common\FrameWork.AddIns.Common\obj\Debug\FrameWork.AddIns.Common.OptionPanels.LanguagesPanel.resources
+D:\Git\GeoSOS\OutPut\AddIns\FrameWork\Common\FrameWork.AddIns.Common.addin
+D:\Git\GeoSOS\OutPut\AddIns\FrameWork\Common\FrameWork.AddIns.Common.dll
+D:\Git\GeoSOS\OutPut\AddIns\FrameWork\Common\FrameWork.AddIns.Common.pdb
+D:\Git\GeoSOS\Code\AddIns\FrameWork\FrameWork.AddIns.Common\FrameWork.AddIns.Common\obj\Debug\FrameWork.AddIns.Common.csprojResolveAssemblyReference.cache
+D:\Git\GeoSOS\Code\AddIns\FrameWork\FrameWork.AddIns.Common\FrameWork.AddIns.Common\obj\Debug\FrameWork.AddIns.Common.OptionPanels.LanguagesPanel.resources
+D:\Git\GeoSOS\Code\AddIns\FrameWork\FrameWork.AddIns.Common\FrameWork.AddIns.Common\obj\Debug\FrameWork.AddIns.Common.csproj.GenerateResource.Cache
+D:\Git\GeoSOS\Code\AddIns\FrameWork\FrameWork.AddIns.Common\FrameWork.AddIns.Common\obj\Debug\FrameWork.AddIns.Common.dll
+D:\Git\GeoSOS\Code\AddIns\FrameWork\FrameWork.AddIns.Common\FrameWork.AddIns.Common\obj\Debug\FrameWork.AddIns.Common.pdb

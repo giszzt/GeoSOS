@@ -1,0 +1,70 @@
+﻿<AddIn name        = "FrameWork"
+       author      = "Zhang Han"
+       copyright   = ""
+       url         = ""
+       description = "FrameWork of the Program"
+       addInManagerHidden = "true">
+	
+	<Manifest>
+		<Identity name = "FrameWork"/>
+	</Manifest>
+	
+	<Runtime>
+		<Import assembly="../Library/FrameWork/FrameWork.dll">		
+            <ConditionEvaluator name="WindowActive" class="FrameWork.WindowActiveConditionEvaluator"/>			
+			<Doozer name="OptionPanel" class="FrameWork.OptionPanelDoozer"/>
+			<Doozer name="DisplayBinding" class="FrameWork.DisplayBindingDoozer"/>
+			<Doozer name="Pad" class="FrameWork.PadDoozer"/>
+			<Doozer name="Ribbon" class="FrameWork.Ribbon.RibbonDoozer"/>
+		</Import>
+		<Import assembly="../Library/GIS/GIS.FrameWork.dll"/>
+	</Runtime>
+	
+	<!-- Auto Start 自动加载项 -->
+	<Path name = "/Workspace/AutostartNothingLoaded">
+	    <Class id = "AppCommand"
+		       class = "GIS.FrameWork.InitialCommand"/> 
+	</Path>	
+	
+	<!-- Add To Ribbon 加载Ribbon Button -->
+	<Path name="/FrameWork/Ribbon">
+        <Ribbon id="Start" name="Start" label="${res:Ribbon.Start}" type="Tab"/>
+	</Path>
+
+	<!-- Add Pad 加载Pad -->
+	<Path name="/FrameWork/Pads">
+	    <Pad id       = "${res:Pad.GIS.FrameWork.LegendPad}"
+		     category = "Main"
+		     title    = "${res:Pad.GIS.FrameWork.LegendPad}"
+             icon     = "404_48px" 
+		     class    = "GIS.FrameWork.LegendPad"
+		     defaultPosition = "Left" />
+	    <Pad id       = "${res:Pad.GIS.FrameWork.AttributesPad}"
+		     category = "Main"
+		     title    = "${res:Pad.GIS.FrameWork.AttributesPad}"
+		     icon     = "404_48px" 
+		     class    = "GIS.FrameWork.AttributesPad"
+		     defaultPosition = "Bottom" />
+        <Pad id       = "${res:Pad.GIS.FrameWork.ConsolePad}"
+		     category = "Main"
+		     title    = "${res:Pad.GIS.FrameWork.ConsolePad}"
+		     icon     = "404_48px"
+		     class    = "GIS.FrameWork.ConsolePad"
+		     defaultPosition = "Bottom" />			 
+	</Path>
+	
+	<!-- DisplayBindings 显示绑定 -->
+    <Path name="/FrameWork/DisplayBindings"></Path>
+
+	<!-- MainMenu 加载菜单 -->
+    <Path name="/FrameWork/MainMenu"></Path>
+
+	<!-- ToolBar 加载工具栏 -->
+    <Path name="/FrameWork/ToolBar"></Path>
+    <Path name="/FrameWork/ToolStrip"></Path>
+
+  <!-- 加载资源文件 -->
+	<!-- ToolBar 加载Ribbon 资源文件 -->
+	<StringResources file="..\Data\resources\Ribbon\StringResources.resources" />
+	
+</AddIn>

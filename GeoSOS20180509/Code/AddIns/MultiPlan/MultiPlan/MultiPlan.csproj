@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2E1BEEBE-4A84-4F39-84DC-888EE381C09F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MultiPlan</RootNamespace>
+    <AssemblyName>MultiPlan</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\..\OutPut\AddIns\MultiPlan\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dataweb.NShape">
+      <HintPath>..\..\..\..\OutPut\Library\Others\Dataweb.NShape.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Dataweb.NShape.GeneralShapes">
+      <HintPath>..\..\..\..\OutPut\Library\Others\Dataweb.NShape.GeneralShapes.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Dataweb.NShape.WinFormsUI">
+      <HintPath>..\..\..\..\OutPut\Library\Others\Dataweb.NShape.WinFormsUI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DotSpatial.Controls">
+      <HintPath>..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.Controls.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DotSpatial.Data">
+      <HintPath>..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.Data.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DotSpatial.Data.Forms">
+      <HintPath>..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.Data.Forms.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DotSpatial.GeoAPI">
+      <HintPath>..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.GeoAPI.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DotSpatial.Projections">
+      <HintPath>..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.Projections.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DotSpatial.Symbology">
+      <HintPath>..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.Symbology.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FrameWork">
+      <HintPath>..\..\..\..\OutPut\AddIns\GIS\Common\FrameWork.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="gdalconst_csharp">
+      <HintPath>..\..\..\..\OutPut\Library\GDAL\gdalconst_csharp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="gdal_csharp">
+      <HintPath>..\..\..\..\OutPut\Library\GDAL\gdal_csharp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="GIS.Common">
+      <HintPath>..\..\..\..\OutPut\Library\GIS\GIS.Common.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="GIS.FrameWork">
+      <HintPath>..\..\..\..\OutPut\AddIns\GIS\Common\GIS.FrameWork.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="GIS.GDAL">
+      <HintPath>..\..\..\..\OutPut\Library\GIS\GIS.GDAL.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ICSharpCode.Core">
+      <HintPath>..\..\..\..\OutPut\Library\SharpDevelop\ICSharpCode.Core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ogr_csharp">
+      <HintPath>..\..\..\..\OutPut\Library\GDAL\ogr_csharp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="osr_csharp">
+      <HintPath>..\..\..\..\OutPut\Library\GDAL\osr_csharp.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Command\DecideCommand.cs" />
+    <Compile Include="Command\InfoCommand.cs" />
+    <Compile Include="Command\PlanCommand.cs" />
+    <Compile Include="Command\RuleCommand.cs" />
+    <Compile Include="Command\SolveCommand.cs" />
+    <Compile Include="Concert\Controls\ConflictConsultContent.cs" />
+    <Compile Include="Concert\Controls\ConflictConsultControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Concert\Controls\ConflictConsultControl.designer.cs">
+      <DependentUpon>ConflictConsultControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conflict\Conflict.cs" />
+    <Compile Include="Common\CommonMethod.cs" />
+    <Compile Include="Common\SelDataControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Common\SelDataControl.designer.cs">
+      <DependentUpon>SelDataControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Config.cs" />
+    <Compile Include="Conflict\Controls\PlanControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Conflict\Controls\PlanControl.designer.cs">
+      <DependentUpon>PlanControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conflict\Controls\PlanInfoControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Conflict\Controls\PlanInfoControl.designer.cs">
+      <DependentUpon>PlanInfoControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conflict\Controls\RuleControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Conflict\Controls\RuleControl.designer.cs">
+      <DependentUpon>RuleControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conflict\Controls\ZoneInfoControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Conflict\Controls\ZoneInfoControl.designer.cs">
+      <DependentUpon>ZoneInfoControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conflict\ControlZone.cs" />
+    <Compile Include="Conflict\Dialogs\PlanForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conflict\Dialogs\PlanForm.designer.cs">
+      <DependentUpon>PlanForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conflict\Dialogs\RuleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Conflict\Dialogs\RuleForm.designer.cs">
+      <DependentUpon>RuleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conflict\Plan.cs" />
+    <Compile Include="Conflict\PlanTree.cs" />
+    <Compile Include="Conflict\Rule.cs" />
+    <Compile Include="Conflict\RuleTree.cs" />
+    <Compile Include="Model\Controls\ModelBuilderControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Model\Controls\ModelBuilderControl.designer.cs">
+      <DependentUpon>ModelBuilderControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Dialogs\ModelBuilderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Model\Dialogs\ModelBuilderForm.designer.cs">
+      <DependentUpon>ModelBuilderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Dialogs\ModelInPutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Model\Dialogs\ModelInPutForm.designer.cs">
+      <DependentUpon>ModelInPutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Dialogs\ModelOutPutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Model\Dialogs\ModelOutPutForm.designer.cs">
+      <DependentUpon>ModelOutPutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Dialogs\ModelConnectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Model\Dialogs\ModelConnectForm.designer.cs">
+      <DependentUpon>ModelConnectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\Dialogs\ModelOperateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Model\Dialogs\ModelOperateForm.designer.cs">
+      <DependentUpon>ModelOperateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model\ModelParameter.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MultiPlan.addin">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Common\SelDataControl.resx">
+      <DependentUpon>SelDataControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Concert\Controls\ConflictConsultControl.resx">
+      <DependentUpon>ConflictConsultControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conflict\Controls\PlanControl.resx">
+      <DependentUpon>PlanControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conflict\Controls\PlanInfoControl.resx">
+      <DependentUpon>PlanInfoControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conflict\Controls\RuleControl.resx">
+      <DependentUpon>RuleControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conflict\Controls\ZoneInfoControl.resx">
+      <DependentUpon>ZoneInfoControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conflict\Dialogs\PlanForm.resx">
+      <DependentUpon>PlanForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Conflict\Dialogs\RuleForm.resx">
+      <DependentUpon>RuleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Model\Controls\ModelBuilderControl.resx">
+      <DependentUpon>ModelBuilderControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Model\Dialogs\ModelBuilderForm.resx">
+      <DependentUpon>ModelBuilderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Model\Dialogs\ModelInPutForm.resx">
+      <DependentUpon>ModelInPutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Model\Dialogs\ModelOutPutForm.resx">
+      <DependentUpon>ModelOutPutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Model\Dialogs\ModelConnectForm.resx">
+      <DependentUpon>ModelConnectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Model\Dialogs\ModelOperateForm.resx">
+      <DependentUpon>ModelOperateForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

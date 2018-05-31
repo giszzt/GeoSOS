@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4F5DA5B7-3CCF-4CFC-BF0F-477B57B2A213}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GIS.AddIns.Statistic</RootNamespace>
+    <AssemblyName>GIS.AddIns.Statistic</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\..\..\..\..\..\OutPut\AddIns\GIS\Statistic\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DotSpatial.Controls">
+      <HintPath>..\..\..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.Controls.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DotSpatial.Data">
+      <HintPath>..\..\..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.Data.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DotSpatial.Symbology">
+      <HintPath>..\..\..\..\..\..\OutPut\Library\DotSpatial\DotSpatial.Symbology.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="FrameWork">
+      <HintPath>..\..\..\..\..\..\OutPut\Library\FrameWork\FrameWork.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="GIS.FrameWork">
+      <HintPath>..\..\..\..\..\..\OutPut\Library\GIS\GIS.FrameWork.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ICSharpCode.Core">
+      <HintPath>..\..\..\..\..\..\OutPut\Library\SharpDevelop\ICSharpCode.Core.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="ICSharpCode.Core.WinForms">
+      <HintPath>..\..\..\..\..\..\OutPut\Library\SharpDevelop\ICSharpCode.Core.WinForms.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="OxyPlot">
+      <HintPath>..\..\..\..\..\..\OutPut\Library\Others\OxyPlot.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="OxyPlot.WindowsForms">
+      <HintPath>..\..\..\..\..\..\OutPut\Library\Others\OxyPlot.WindowsForms.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AttributeSetting.cs" />
+    <Compile Include="CenterPlotCommand.cs" />
+    <Compile Include="ClearPlotCommand.cs" />
+    <Compile Include="Command\StatisticCommand.cs" />
+    <Compile Include="Control\Histogram2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\Histogram2.Designer.cs">
+      <DependentUpon>Histogram2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\LineBarPlot.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\LineBarPlot.designer.cs">
+      <DependentUpon>LineBarPlot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\LinePlot.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\LinePlot.designer.cs">
+      <DependentUpon>LinePlot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\MapStatistics.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\MapStatistics.designer.cs">
+      <DependentUpon>MapStatistics.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogue\ExportImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogue\ExportImage.Designer.cs">
+      <DependentUpon>ExportImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogue\PlotAttribute.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogue\PlotAttribute.Designer.cs">
+      <DependentUpon>PlotAttribute.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dialogue\SetPlotForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dialogue\SetPlotForm.designer.cs">
+      <DependentUpon>SetPlotForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\ScatterPoints.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\ScatterPoints.designer.cs">
+      <DependentUpon>ScatterPoints.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Control\Histogram.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\Histogram.Designer.cs">
+      <DependentUpon>Histogram.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExportImageCommand.cs" />
+    <Compile Include="MapsStatisticsView.cs" />
+    <Compile Include="StatisticPlotPad.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Control\StatisticControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Control\StatisticControl.designer.cs">
+      <DependentUpon>StatisticControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SetPlotCommand.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="GIS.AddIns.Statistic.addin">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Control\Histogram2.resx">
+      <DependentUpon>Histogram2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\LineBarPlot.resx">
+      <DependentUpon>LineBarPlot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\LinePlot.resx">
+      <DependentUpon>LinePlot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\MapStatistics.resx">
+      <DependentUpon>MapStatistics.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogue\ExportImage.resx">
+      <DependentUpon>ExportImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogue\PlotAttribute.resx">
+      <DependentUpon>PlotAttribute.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dialogue\SetPlotForm.resx">
+      <DependentUpon>SetPlotForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\ScatterPoints.resx">
+      <DependentUpon>ScatterPoints.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Control\Histogram.resx">
+      <DependentUpon>Histogram.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

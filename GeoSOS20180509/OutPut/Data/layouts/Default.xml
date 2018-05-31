@@ -1,0 +1,21 @@
+<DockingManager version="1.3.0">
+    <ResizingPanel ResizeWidth="*" ResizeHeight="*" EffectiveSize="0,0" Orientation="Horizontal">
+        <ResizingPanel ResizeWidth="*" ResizeHeight="*" EffectiveSize="1920,879.76" Orientation="Horizontal">
+            <DockablePane ResizeWidth="199" ResizeHeight="*" EffectiveSize="199,879.76" ID="14a48468-d28b-48ff-805b-dd33d20df9e1" Anchor="Left" IsAutoHidden="false">
+                <DockableContent Name="GIS_FrameWork_LegendPad" FloatingWindowSize="250,400" ChildIndex="0" Width="250" Height="849.76" Anchor="Left" State="Docked" />
+            </DockablePane>
+            <ResizingPanel ResizeWidth="*" ResizeHeight="*" EffectiveSize="1715,879.76" Orientation="Vertical">
+                <DocumentPaneResizingPanel ResizeWidth="*" ResizeHeight="*" EffectiveSize="1715,879.76" Orientation="Horizontal">
+                    <DocumentPane IsMain="true" ResizeWidth="*" ResizeHeight="*" EffectiveSize="1715,879.76" />
+                </DocumentPaneResizingPanel>
+                <DockablePane ResizeWidth="*" ResizeHeight="498.581666666667" EffectiveSize="1715,498.581666666667" ID="7210349b-8f8d-4dc6-a678-6a0354f92e9e" Anchor="Bottom" IsAutoHidden="false" />
+            </ResizingPanel>
+        </ResizingPanel>
+    </ResizingPanel>
+    <Hidden>
+        <DockableContent Name="GIS_FrameWork_ConsolePad" FloatingWindowSize="250,400" ChildIndex="0" Width="1475" Height="200.581666666667" Anchor="Bottom" State="Docked" ContainerPaneID="7210349b-8f8d-4dc6-a678-6a0354f92e9e" />
+        <DockableContent Name="GIS_FrameWork_AttributesPad" FloatingWindowSize="250,523" ChildIndex="0" Width="1715" Height="498.581666666667" Anchor="Bottom" State="Docked" ContainerPaneID="7210349b-8f8d-4dc6-a678-6a0354f92e9e" />
+        <DockableContent Name="PlotToolStrip_StatisticPlotPad" FloatingWindowSize="250,400" ChildIndex="0" Width="1680" Height="200" Anchor="Bottom" State="Docked" />
+    </Hidden>
+    <Windows />
+</DockingManager>

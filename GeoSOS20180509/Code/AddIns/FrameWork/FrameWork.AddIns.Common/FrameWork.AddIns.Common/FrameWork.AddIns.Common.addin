@@ -1,0 +1,32 @@
+﻿<AddIn name        = "FrameWork.AddIns.Common"
+       author      = "Zhang Han"
+       copyright   = ""
+       url         = ""
+       description = "FrameWork.AddIns.Common"
+       addInManagerHidden = "true">
+
+  <Manifest>
+    <Identity name = "FrameWork.AddIns.Common"/>
+  </Manifest>
+
+  <Runtime>
+    <Import assembly="FrameWork.AddIns.Common.dll"/>
+  </Runtime>
+
+  <!-- Add To Ribbon 加载Ribbon Button -->
+  <Path name="/FrameWork/Ribbon">    
+    <Ribbon id="RibbonMenuOptions" name ="RibbonMenuOptions" label="${res:Ribbon.ApplicationMenu.Options}" type ="MenuItem" class="FrameWork.AddIns.Common.OptionsCommand"/>
+    <Ribbon id="RibbonMenuExit" name ="RibbonMenuExit" label="${res:Ribbon.ApplicationMenu.Exit}" type ="MenuItem" class="FrameWork.AddIns.Common.ExitCommand"/>
+  </Path>
+
+  <!-- 加载选项窗体 -->
+  <Path name="/FrameWork/OptionPanel/SystemOptions">
+    <OptionPanel id    = "Options"
+		             label = "${res:OptionPanel.SystemOptions.Options}">
+      <OptionPanel id    = "SetLanguage"
+             label = "${res:OptionPanel.SystemOptions.Options.Languages}"
+             class = "FrameWork.AddIns.Common.OptionPanels.LanguagesPanel"/>
+    </OptionPanel>
+  </Path>
+
+</AddIn>

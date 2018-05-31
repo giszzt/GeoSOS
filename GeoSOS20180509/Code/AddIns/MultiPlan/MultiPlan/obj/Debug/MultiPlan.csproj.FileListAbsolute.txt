@@ -1,0 +1,77 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\MultiPlan\MultiPlan.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\MultiPlan\MultiPlan.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\AddIns\MultiPlan\MultiPlan.addin
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.PlanControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.PlanInfoControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ZoneInfoControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.PlanForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.SelDataControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.RuleControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.RuleForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.csprojResolveAssemblyReference.cache
+D:\Git\GeoSOS\OutPut\AddIns\MultiPlan\MultiPlan.addin
+D:\Git\GeoSOS\OutPut\AddIns\MultiPlan\MultiPlan.dll
+D:\Git\GeoSOS\OutPut\AddIns\MultiPlan\MultiPlan.pdb
+D:\Git\GeoSOS\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.csprojResolveAssemblyReference.cache
+D:\Git\GeoSOS\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.SelDataControl.resources
+D:\Git\GeoSOS\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.PlanControl.resources
+D:\Git\GeoSOS\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.PlanInfoControl.resources
+D:\Git\GeoSOS\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.RuleControl.resources
+D:\Git\GeoSOS\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ZoneInfoControl.resources
+D:\Git\GeoSOS\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.PlanForm.resources
+D:\Git\GeoSOS\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.RuleForm.resources
+D:\Git\GeoSOS\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.csproj.GenerateResource.Cache
+D:\Git\GeoSOS\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.dll
+D:\Git\GeoSOS\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.pdb
+C:\Users\Administrator.ZX-201609231534\Desktop\GeoSOS1207\OutPut\AddIns\MultiPlan\MultiPlan.addin
+C:\Users\Administrator.ZX-201609231534\Desktop\GeoSOS1207\OutPut\AddIns\MultiPlan\MultiPlan.dll
+C:\Users\Administrator.ZX-201609231534\Desktop\GeoSOS1207\OutPut\AddIns\MultiPlan\MultiPlan.pdb
+C:\Users\Administrator.ZX-201609231534\Desktop\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.SelDataControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.PlanControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.PlanInfoControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.RuleControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ZoneInfoControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.PlanForm.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.RuleForm.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.csproj.GenerateResource.Cache
+C:\Users\Administrator.ZX-201609231534\Desktop\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.dll
+C:\Users\Administrator.ZX-201609231534\Desktop\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.pdb
+C:\Users\Administrator.ZX-201609231534\Desktop\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.ZX-201609231534\Desktop\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ConflictConsultControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ModelBuilderControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ModelBuilderForm.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ModelOperateForm.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ModelInPutForm.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ModelOutPutForm.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ModelConnectForm.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\新建文件夹 (3)\GeoSOS1207\OutPut\AddIns\MultiPlan\MultiPlan.addin
+C:\Users\Administrator.ZX-201609231534\Desktop\新建文件夹 (3)\GeoSOS1207\OutPut\AddIns\MultiPlan\MultiPlan.dll
+C:\Users\Administrator.ZX-201609231534\Desktop\新建文件夹 (3)\GeoSOS1207\OutPut\AddIns\MultiPlan\MultiPlan.pdb
+C:\Users\Administrator.ZX-201609231534\Desktop\新建文件夹 (3)\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.ZX-201609231534\Desktop\新建文件夹 (3)\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.SelDataControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\新建文件夹 (3)\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ConflictConsultControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\新建文件夹 (3)\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.PlanControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\新建文件夹 (3)\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.PlanInfoControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\新建文件夹 (3)\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.RuleControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\新建文件夹 (3)\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ZoneInfoControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\新建文件夹 (3)\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.PlanForm.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\新建文件夹 (3)\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.RuleForm.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\新建文件夹 (3)\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ModelBuilderControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\新建文件夹 (3)\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ModelBuilderForm.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\新建文件夹 (3)\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ModelInPutForm.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\新建文件夹 (3)\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ModelOutPutForm.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\新建文件夹 (3)\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ModelConnectForm.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\新建文件夹 (3)\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ModelOperateForm.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\新建文件夹 (3)\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.csproj.GenerateResource.Cache
+C:\Users\Administrator.ZX-201609231534\Desktop\新建文件夹 (3)\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.dll
+C:\Users\Administrator.ZX-201609231534\Desktop\新建文件夹 (3)\GeoSOS1207\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.pdb
+D:\Git\GeoSOS\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ConflictConsultControl.resources
+D:\Git\GeoSOS\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ModelBuilderControl.resources
+D:\Git\GeoSOS\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ModelBuilderForm.resources
+D:\Git\GeoSOS\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ModelInPutForm.resources
+D:\Git\GeoSOS\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ModelOutPutForm.resources
+D:\Git\GeoSOS\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ModelConnectForm.resources
+D:\Git\GeoSOS\Code\AddIns\MultiPlan\MultiPlan\obj\Debug\MultiPlan.ModelOperateForm.resources

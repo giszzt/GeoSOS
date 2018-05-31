@@ -1,0 +1,513 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\Library\GIS\GIS.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\Library\GIS\GIS.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\Library\GIS\de-DE\GIS.Common.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AngleControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AttributeDialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Attributes.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DeleteFieldsDialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.RenameFieldDialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SearchAndReplaceDialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SelectByAttributes.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SelectField.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.TableEditorControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ColorBox.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ColorDropDown.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ColorPicker.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.TabColorDialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DoubleBox.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DynamicVisibilityControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DynamicVisibilityModeDialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ExportFeature.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.TwoMapsControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ExpressionControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FeatureCategoryControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FeatureSizeRangeControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FontBox.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FontFamilyControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ImageCategoryControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.JoinDialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LabelAlignmentControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LabelSetup.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.PropertyDialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.StatisticalBreaksDialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.CollectionControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.CollectionPropertyGrid.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedSymbolDialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LineJoinControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LineSymbolDialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.OutlineControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Size2DDialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SizeControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.GradientControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Images.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ProgressCancelDialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.RasterCategoryControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLQueryControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLExpressionDialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AddCustomSymbolDialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AddNewColum.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AttributeCalculator.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Buffer.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.CalculatorUserGuide.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LayerDialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLBulider.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FieldCaculator.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SymbolizerCollectionControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SymbologyEditor.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DecorationCollectionControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedLineSymbolControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedLineSymbolDialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPointSymbolControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPointSymbolDialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPolygonSymbolControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPolygonSymbolDialog.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DialogButtons.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.PatternCollectionControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.StrokeCollectionControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SymbolCollectionControl.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLQueryControl.de-DE.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\de-DE\GIS.Common.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.pdb
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\OutPut\Library\GIS\GIS.Common.dll
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\OutPut\Library\GIS\GIS.Common.pdb
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\OutPut\Library\GIS\de-DE\GIS.Common.resources.dll
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AngleControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AttributeDialog.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Attributes.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DeleteFieldsDialog.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.RenameFieldDialog.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SearchAndReplaceDialog.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SelectByAttributes.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SelectField.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.TableEditorControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ColorBox.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ColorDropDown.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ColorPicker.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.TabColorDialog.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DoubleBox.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DynamicVisibilityControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DynamicVisibilityModeDialog.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ExportFeature.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.TwoMapsControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ExpressionControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FeatureCategoryControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FeatureSizeRangeControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FontBox.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FontFamilyControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ImageCategoryControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.JoinDialog.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LabelAlignmentControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LabelSetup.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.PropertyDialog.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.StatisticalBreaksDialog.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.CollectionControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.CollectionPropertyGrid.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedSymbolDialog.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LineJoinControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LineSymbolDialog.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.OutlineControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Size2DDialog.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SizeControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.GradientControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Images.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ProgressCancelDialog.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.RasterCategoryControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLQueryControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLExpressionDialog.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AddCustomSymbolDialog.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AddNewColum.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AttributeCalculator.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Buffer.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.CalculatorUserGuide.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LayerDialog.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLBulider.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FieldCaculator.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SymbolizerCollectionControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SymbologyEditor.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DecorationCollectionControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedLineSymbolControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedLineSymbolDialog.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPointSymbolControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPointSymbolDialog.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPolygonSymbolControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPolygonSymbolDialog.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DialogButtons.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.PatternCollectionControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.StrokeCollectionControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SymbolCollectionControl.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLQueryControl.de-DE.resources
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.csproj.GenerateResource.Cache
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\de-DE\GIS.Common.resources.dll
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.dll
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.pdb
+C:\Users\zhhan\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.Common\obj\Debug\GIS.Common.csprojResolveAssemblyReference.cache
+D:\Git\GeoSOS\OutPut\Library\GIS\GIS.Common.dll
+D:\Git\GeoSOS\OutPut\Library\GIS\GIS.Common.pdb
+D:\Git\GeoSOS\OutPut\Library\GIS\de-DE\GIS.Common.resources.dll
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AngleControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AttributeDialog.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Attributes.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DeleteFieldsDialog.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.RenameFieldDialog.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SearchAndReplaceDialog.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SelectByAttributes.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SelectField.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.TableEditorControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ColorBox.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ColorDropDown.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ColorPicker.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.TabColorDialog.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DoubleBox.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DynamicVisibilityControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DynamicVisibilityModeDialog.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ExportFeature.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.TwoMapsControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ExpressionControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FeatureCategoryControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FeatureSizeRangeControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FontBox.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FontFamilyControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ImageCategoryControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.JoinDialog.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LabelAlignmentControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LabelSetup.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.PropertyDialog.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.StatisticalBreaksDialog.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.CollectionControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.CollectionPropertyGrid.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedSymbolDialog.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LineJoinControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LineSymbolDialog.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.OutlineControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Size2DDialog.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SizeControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.GradientControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Images.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ProgressCancelDialog.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.RasterCategoryControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLQueryControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLExpressionDialog.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AddCustomSymbolDialog.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AddNewColum.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AttributeCalculator.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Buffer.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.CalculatorUserGuide.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LayerDialog.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLBulider.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FieldCaculator.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SymbolizerCollectionControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SymbologyEditor.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DecorationCollectionControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedLineSymbolControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedLineSymbolDialog.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPointSymbolControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPointSymbolDialog.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPolygonSymbolControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPolygonSymbolDialog.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DialogButtons.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.PatternCollectionControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.StrokeCollectionControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SymbolCollectionControl.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLQueryControl.de-DE.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.csproj.GenerateResource.Cache
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\de-DE\GIS.Common.resources.dll
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.dll
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.pdb
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AngleControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AttributeDialog.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Attributes.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DeleteFieldsDialog.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.RenameFieldDialog.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SearchAndReplaceDialog.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SelectByAttributes.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SelectField.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.TableEditorControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ColorBox.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ColorDropDown.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ColorPicker.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.TabColorDialog.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DoubleBox.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DynamicVisibilityControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DynamicVisibilityModeDialog.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ExportFeature.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.TwoMapsControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ExpressionControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FeatureCategoryControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FeatureSizeRangeControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FontBox.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FontFamilyControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ImageCategoryControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.JoinDialog.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LabelAlignmentControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LabelSetup.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.PropertyDialog.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.StatisticalBreaksDialog.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.CollectionControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.CollectionPropertyGrid.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedSymbolDialog.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LineJoinControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LineSymbolDialog.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.OutlineControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Size2DDialog.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SizeControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.GradientControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Images.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ProgressCancelDialog.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.RasterCategoryControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLQueryControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLExpressionDialog.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AddCustomSymbolDialog.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AddNewColum.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AttributeCalculator.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Buffer.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.CalculatorUserGuide.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LayerDialog.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLBulider.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FieldCaculator.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SymbolizerCollectionControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SymbologyEditor.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DecorationCollectionControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedLineSymbolControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedLineSymbolDialog.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPointSymbolControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPointSymbolDialog.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPolygonSymbolControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPolygonSymbolDialog.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DialogButtons.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.PatternCollectionControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.StrokeCollectionControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SymbolCollectionControl.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLQueryControl.de-DE.resources
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.csproj.GenerateResource.Cache
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.dll
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.pdb
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\OutPut\Library\GIS\GIS.Common.dll
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\OutPut\Library\GIS\GIS.Common.pdb
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\OutPut\Library\GIS\de-DE\GIS.Common.resources.dll
+C:\Users\Administrator.ZX-201609231534\Desktop\vsforgit\GeoSOS\Code\GIS\GIS.Common\obj\Debug\de-DE\GIS.Common.resources.dll
+D:\Git\新建文件夹\GeoSOS\OutPut\Library\GIS\GIS.Common.dll
+D:\Git\新建文件夹\GeoSOS\OutPut\Library\GIS\GIS.Common.pdb
+D:\Git\新建文件夹\GeoSOS\OutPut\Library\GIS\de-DE\GIS.Common.resources.dll
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.csprojResolveAssemblyReference.cache
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AngleControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AttributeDialog.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Attributes.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DeleteFieldsDialog.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.RenameFieldDialog.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SearchAndReplaceDialog.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SelectByAttributes.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SelectField.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.TableEditorControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ColorBox.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ColorDropDown.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ColorPicker.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.TabColorDialog.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DoubleBox.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DynamicVisibilityControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DynamicVisibilityModeDialog.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ExportFeature.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.TwoMapsControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ExpressionControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FeatureCategoryControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FeatureSizeRangeControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FontBox.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FontFamilyControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ImageCategoryControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.JoinDialog.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LabelAlignmentControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LabelSetup.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.PropertyDialog.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.StatisticalBreaksDialog.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.CollectionControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.CollectionPropertyGrid.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedSymbolDialog.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LineJoinControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LineSymbolDialog.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.OutlineControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Size2DDialog.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SizeControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.GradientControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Images.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ProgressCancelDialog.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.RasterCategoryControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLQueryControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLExpressionDialog.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AddCustomSymbolDialog.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AddNewColum.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AttributeCalculator.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Buffer.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.CalculatorUserGuide.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LayerDialog.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLBulider.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FieldCaculator.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SymbolizerCollectionControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SymbologyEditor.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DecorationCollectionControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedLineSymbolControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedLineSymbolDialog.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPointSymbolControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPointSymbolDialog.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPolygonSymbolControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPolygonSymbolDialog.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DialogButtons.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.PatternCollectionControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.StrokeCollectionControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SymbolCollectionControl.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLQueryControl.de-DE.resources
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.csproj.GenerateResource.Cache
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\de-DE\GIS.Common.resources.dll
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.dll
+D:\Git\新建文件夹\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.pdb
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Console.Console.resources
+D:\Git\GeoSOS\Code\GIS\GIS.Common\obj\Debug\GIS.Common.csprojResolveAssemblyReference.cache
+C:\Users\nicole\Desktop\GeoSOS20170727\OutPut\Library\GIS\GIS.Common.dll
+C:\Users\nicole\Desktop\GeoSOS20170727\OutPut\Library\GIS\GIS.Common.pdb
+C:\Users\nicole\Desktop\GeoSOS20170727\OutPut\Library\GIS\de-DE\GIS.Common.resources.dll
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.csprojResolveAssemblyReference.cache
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AngleControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AttributeDialog.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Attributes.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DeleteFieldsDialog.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.RenameFieldDialog.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SearchAndReplaceDialog.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SelectByAttributes.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SelectField.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.TableEditorControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ColorBox.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ColorDropDown.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ColorPicker.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.TabColorDialog.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Console.Console.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DoubleBox.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DynamicVisibilityControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DynamicVisibilityModeDialog.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ExportFeature.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.TwoMapsControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ExpressionControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FeatureCategoryControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FeatureSizeRangeControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FontBox.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FontFamilyControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ImageCategoryControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.JoinDialog.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LabelAlignmentControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LabelSetup.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.PropertyDialog.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.StatisticalBreaksDialog.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.CollectionControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.CollectionPropertyGrid.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedSymbolDialog.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LineJoinControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LineSymbolDialog.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.OutlineControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Size2DDialog.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SizeControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.GradientControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Images.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ProgressCancelDialog.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.RasterCategoryControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLQueryControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLExpressionDialog.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AddCustomSymbolDialog.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AddNewColum.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AttributeCalculator.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Buffer.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.CalculatorUserGuide.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LayerDialog.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLBulider.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FieldCaculator.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SymbolizerCollectionControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SymbologyEditor.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DecorationCollectionControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedLineSymbolControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedLineSymbolDialog.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPointSymbolControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPointSymbolDialog.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPolygonSymbolControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPolygonSymbolDialog.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DialogButtons.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.PatternCollectionControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.StrokeCollectionControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SymbolCollectionControl.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLQueryControl.de-DE.resources
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.csproj.GenerateResource.Cache
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\de-DE\GIS.Common.resources.dll
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.dll
+C:\Users\nicole\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.pdb
+C:\Users\Administrator\Desktop\GeoSOS20170727\OutPut\Library\GIS\GIS.Common.dll
+C:\Users\Administrator\Desktop\GeoSOS20170727\OutPut\Library\GIS\GIS.Common.pdb
+C:\Users\Administrator\Desktop\GeoSOS20170727\OutPut\Library\GIS\de-DE\GIS.Common.resources.dll
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AngleControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AttributeDialog.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Attributes.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DeleteFieldsDialog.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.RenameFieldDialog.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SearchAndReplaceDialog.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SelectByAttributes.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SelectField.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.TableEditorControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ColorBox.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ColorDropDown.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ColorPicker.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.TabColorDialog.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Console.Console.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DoubleBox.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DynamicVisibilityControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DynamicVisibilityModeDialog.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ExportFeature.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.TwoMapsControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ExpressionControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FeatureCategoryControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FeatureSizeRangeControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FontBox.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FontFamilyControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ImageCategoryControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.JoinDialog.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LabelAlignmentControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LabelSetup.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.PropertyDialog.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.StatisticalBreaksDialog.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.CollectionControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.CollectionPropertyGrid.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedSymbolDialog.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LineJoinControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LineSymbolDialog.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.OutlineControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Size2DDialog.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SizeControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.GradientControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Images.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.ProgressCancelDialog.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.RasterCategoryControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLQueryControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLExpressionDialog.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AddCustomSymbolDialog.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AddNewColum.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.AttributeCalculator.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.Buffer.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.CalculatorUserGuide.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.LayerDialog.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLBulider.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.FieldCaculator.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SymbolizerCollectionControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SymbologyEditor.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DecorationCollectionControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedLineSymbolControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedLineSymbolDialog.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPointSymbolControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPointSymbolDialog.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPolygonSymbolControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DetailedPolygonSymbolDialog.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.DialogButtons.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.PatternCollectionControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.StrokeCollectionControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SymbolCollectionControl.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.Dialogs.SQLQueryControl.de-DE.resources
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\de-DE\GIS.Common.resources.dll
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.dll
+C:\Users\Administrator\Desktop\GeoSOS20170727\Code\GIS\GIS.Common\obj\Debug\GIS.Common.pdb

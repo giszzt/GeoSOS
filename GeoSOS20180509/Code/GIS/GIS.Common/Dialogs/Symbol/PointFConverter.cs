@@ -1,0 +1,92 @@
+using System;
+using System.ComponentModel;
+using System.Drawing;
+using System.Globalization;
+
+namespace GIS.Common.Dialogs
+{
+    /// <summary>
+    /// PointFConverter
+    /// </summary>
+    public class PointFConverter : ExpandableObjectConverter
+    {
+        #region Protected Methods
+
+        /// <summary>
+        /// Boolean, true if the source type is a string
+        /// </summary>
+        /// <param name="context"></param>
+        /// <param name="sourceType"></param>
+        /// <returns></returns>
+        public override bool CanConvertFrom(ITypeDescriptorContext context, Type sourceType)
+        {
+            if (sourceType == typeof(string)) return true;
+            return base.CanConvertFrom(context, sourceType);
+        }
+
+        /// <summary>
+        /// Converts the specified string into a PointF
+        /// </summary>
+        /// <param name="context"></param>
+        /// <param name="culture"></param>
+        /// <param name="value"></param>
+        /// <returns></returns>
+        public override object ConvertFrom(ITypeDescriptorContext context, CultureInfo culture, object value)
+        {
+            if (value is string)
+            {
+                try
+                {
+                    string s = (string)value;
+                    string[] converterParts = s.Split(',');
+                    float x;
+                    float y;
+                    if (converterParts.Length > 1)
+                    {
+                        x = float.Parse(converterParts[0].Trim());
+                        y = float.Parse(converterParts[1].Trim());
+                    }
+                    else if (converterParts.Length == 1)
+                    {
+                        x = float.Parse(converterParts[0].Trim());
+                        y = 0;
+                    }
+                    else
+                    {
+                        x = 0F;
+                        y = 0F;
+                    }
+                    return new PointF(x, y);
+                }
+                catch
+                {
+                    throw new ArgumentException("Cannot convert [" + value + "] to pointF");
+                }
+            }
+            return base.ConvertFrom(context, culture, value);
+        }
+
+        /// <summary>
+        /// Converts the PointF into a string
+        /// </summary>
+        /// <param name="context"></param>
+        /// <param name="culture"></param>
+        /// <param name="value"></param>
+        /// <param name="destinationType"></param>
+        /// <returns></returns>
+        public override object ConvertTo(ITypeDescriptorContext context, CultureInfo culture, object value, Type destinationType)
+        {
+            if (destinationType == typeof(string))
+            {
+                if (value.GetType() == typeof(PointF))
+                {
+                    PointF pt = (PointF)value;
+                    return string.Format("{0}, {1}", pt.X, pt.Y);
+                }
+            }
+            return base.ConvertTo(context, culture, value, destinationType);
+        }
+
+        #endregion
+    }
+}

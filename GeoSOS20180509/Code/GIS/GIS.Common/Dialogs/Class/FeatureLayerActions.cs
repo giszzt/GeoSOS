@@ -1,0 +1,138 @@
+﻿using System;
+using System.IO;
+using System.Windows.Forms;
+using DotSpatial.Data;
+using DotSpatial.Symbology;
+using ICSharpCode.Core;
+
+namespace GIS.Common.Dialogs
+{
+    /// <summary>
+    /// This member is virtual to allow custom event handlers to be used instead.
+    /// </summary>
+    public class FeatureLayerActions : LegendItemActionsBase, IFeatureLayerActions
+    {
+        /// <summary>
+        /// Show the properties of a feature layer in the legend.
+        /// </summary>
+        /// <param name="e"></param>
+        public void ShowProperties(IFeatureLayer e)
+        {
+            using (var dlg = new LayerDialog(e, new FeatureCategoryControl()))
+            {
+                ShowDialog(dlg);
+            }
+        }
+        /// <summary>
+        /// Show the dialog to join an Excel table with a feature set.
+        /// </summary>
+        /// <param name="e"></param>
+        public void ExcelJoin(IFeatureSet e)
+        {
+            using (var jd = new JoinDialog(e))
+            {
+                ShowDialog(jd);
+            }
+        }
+
+        /// <summary>
+        /// Show the dialog to set label extents.
+        /// </summary>
+        /// <param name="e"></param>
+        public void LabelExtents(IDynamicVisibility e)
+        {
+            using (var dvg = new DynamicVisibilityModeDialog())
+            {
+                if (ShowDialog(dvg) == DialogResult.OK)
+                {
+                    e.DynamicVisibilityMode = dvg.DynamicVisibilityMode;
+                    e.UseDynamicVisibility = true;
+                }
+            }
+        }
+
+        /// <summary>
+        /// Show the dialog to set up labels.
+        /// </summary>
+        /// <param name="e"></param>
+        public void LabelSetup(ILabelLayer e)
+        {
+            using (var dlg = new LabelSetup {Layer = e})
+            {
+                ShowDialog(dlg);
+            }
+        }
+
+        /// <summary>
+        /// Show the attribute table editor.
+        /// </summary>
+        /// <param name="e"></param>
+        public void ShowAttributes(IFeatureLayer e)
+        {
+            using (var attributeDialog = new AttributeDialog(e))
+            {
+                ShowDialog(attributeDialog);
+            }
+        }
+
+        /// <summary>
+        /// Show the dialog for exporting data from a feature layer.
+        /// </summary>
+        /// <param name="e"></param>
+        public void ExportData(IFeatureLayer e)
+        {
+            using (var frmExport = new ExportFeature())
+            {
+                frmExport.Filename = e.DataSet.Filename;
+                if (ShowDialog(frmExport) != DialogResult.OK) return;
+
+                // Create a FeatureSet of features that the client wants exported
+                FeatureSet fs = null;
+                switch (frmExport.FeaturesIndex)
+                {
+                    case 0:
+                        fs = (FeatureSet) e.DataSet;
+                        break;
+                    case 1:
+                        fs = e.Selection.ToFeatureSet();
+                        break;
+                    case 2:
+                        var features = e.DataSet.Select(e.MapFrame.ViewExtents);
+                        fs = new FeatureSet(features) {Projection = e.Projection};
+                        break;
+                }
+
+                if (fs.Features.Count == 0)
+                {
+                    fs.CopyTableSchema(e.DataSet);
+                    fs.FeatureType = e.DataSet.FeatureType;
+                }
+
+                fs.SaveAs(frmExport.Filename, true);
+
+                if (MessageBox.Show(Owner, StringParser.Parse("${res:GIS.Common.Dialogs.SymbologyFormsMessageStrings.FeatureLayerActions_LoadFeatures}"),
+                                    StringParser.Parse("${res:GIS.Common.Dialogs.SymbologyFormsMessageStrings.FeatureLayerActions_FeaturesExported}"),
+                                    MessageBoxButtons.YesNo) == DialogResult.Yes)
+                {
+                    LoadFeatureSetAsLayer(e, fs, Path.GetFileNameWithoutExtension(frmExport.Filename));
+                }
+            }
+        }
+
+        private static void LoadFeatureSetAsLayer(IFeatureLayer e, FeatureSet fs, string newLayerName)
+        {
+            var layerType = e.GetType();
+            var newLayer = (FeatureLayer)Activator.CreateInstance(layerType, fs);
+
+            var parent = e.GetParentItem() as IGroup;
+            if (parent != null)
+            {
+                int index = parent.IndexOf(e);
+                parent.Insert(index + 1, newLayer);
+                var child = parent[index + 1];
+                child.LegendText = newLayer.DataSet.Name = newLayer.Name = newLayerName;
+
+            }
+        }
+    }
+}

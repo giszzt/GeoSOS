@@ -1,0 +1,38 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\MainProgram\StartUp\bin\Debug\StartUp.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\obj\Debug\Themes\aero.normalcolor.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\obj\Debug\Themes\dev2010.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\obj\Debug\Themes\ExpressionDark.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\obj\Debug\StartUp_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\obj\Debug\StartUp.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\obj\Debug\StartUp.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\obj\Debug\StartUp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\StartUp.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\StartUp.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\StartUp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\AvalonDock.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\ICSharpCode.Core.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\ICSharpCode.Core.Presentation.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\ICSharpCode.Core.WinForms.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\ICSharpCode.SharpDevelop.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\log4net.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\AvalonDock.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\ICSharpCode.Core.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\ICSharpCode.Core.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\ICSharpCode.Core.Presentation.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\ICSharpCode.Core.WinForms.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\ICSharpCode.SharpDevelop.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\StartUp\bin\StartUp.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\StartUp\obj\Debug\StartUp.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\StartUp\obj\Debug\StartUp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\StartUp.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\StartUp.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\StartUp.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\StartUp\obj\Debug\StartUp.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\StartUp\obj\Debug\Themes\aero.normalcolor.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\StartUp\obj\Debug\Themes\dev2010.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\StartUp\obj\Debug\Themes\ExpressionDark.baml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\StartUp\obj\Debug\StartUp_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\StartUp\obj\Debug\StartUp.g.resources
+E:\开发文档\AddIn手册及Demo\AddInDemo\OutPut\StartUp.exe.config
+E:\开发文档\AddIn手册及Demo\AddInDemo\OutPut\StartUp.exe
+E:\开发文档\AddIn手册及Demo\AddInDemo\OutPut\StartUp.pdb

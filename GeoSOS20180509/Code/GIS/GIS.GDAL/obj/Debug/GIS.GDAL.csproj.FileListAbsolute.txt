@@ -1,0 +1,19 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\GIS.GDAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\GIS.GDAL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\GIS\GIS.GDAL\GIS.GDAL\obj\Debug\GIS.GDAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\GIS\GIS.GDAL\GIS.GDAL\obj\Debug\GIS.GDAL.pdb
+E:\John\SYSU\Code\GISProgram6.14\GISProgram\Code\StartUp\bin\GIS.GDAL.dll
+E:\John\SYSU\Code\GISProgram6.14\GISProgram\Code\StartUp\bin\GIS.GDAL.pdb
+E:\John\SYSU\Code\GISProgram6.14\GISProgram\Output\GIS.GDAL.dll
+E:\John\SYSU\Code\GISProgram6.14\GISProgram\Output\GIS.GDAL.pdb
+E:\John\SYSU\Code\GISProgram6.14\GISProgram\Code\GIS\GIS.GDAL\GIS.GDAL\obj\Debug\GIS.GDAL.dll
+E:\John\SYSU\Code\GISProgram6.14\GISProgram\Code\GIS\GIS.GDAL\GIS.GDAL\obj\Debug\GIS.GDAL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\Library\GIS\GIS.GDAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\Library\GIS\GIS.GDAL.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.GDAL\obj\Debug\GIS.GDAL.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.GDAL\obj\Debug\GIS.GDAL.pdb
+D:\Git\GeoSOS\OutPut\Library\GIS\GIS.GDAL.dll
+D:\Git\GeoSOS\OutPut\Library\GIS\GIS.GDAL.pdb
+D:\Git\GeoSOS\Code\GIS\GIS.GDAL\obj\Debug\GIS.GDAL.dll
+D:\Git\GeoSOS\Code\GIS\GIS.GDAL\obj\Debug\GIS.GDAL.pdb
+D:\Git\GeoSOS\Code\GIS\GIS.GDAL\obj\Debug\GIS.GDAL.csprojResolveAssemblyReference.cache

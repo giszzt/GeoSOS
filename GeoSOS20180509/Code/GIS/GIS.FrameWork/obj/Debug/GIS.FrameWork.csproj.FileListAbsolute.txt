@@ -1,0 +1,20 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\bin\GIS.FrameWork.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\StartUp\bin\GIS.FrameWork.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\GIS.FrameWork\obj\Debug\GIS.FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\GIS.FrameWork\obj\Debug\GIS.FrameWork.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\MainProgram\GIS.FrameWork\obj\Debug\GIS.FrameWork.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\GIS.FrameWork.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\StartUp\bin\GIS.FrameWork.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\GIS\GIS.FrameWork\obj\Debug\GIS.FrameWork.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\GIS\GIS.FrameWork\obj\Debug\GIS.FrameWork.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\GIS\GIS.FrameWork\obj\Debug\GIS.FrameWork.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\Library\GIS\GIS.FrameWork.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\OutPut\Library\GIS\GIS.FrameWork.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.FrameWork\obj\Debug\GIS.FrameWork.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.FrameWork\obj\Debug\GIS.FrameWork.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Oribit\Code\GIS\GIS.FrameWork\obj\Debug\GIS.FrameWork.csprojResolveAssemblyReference.cache
+D:\Git\GeoSOS\Code\GIS\GIS.FrameWork\obj\Debug\GIS.FrameWork.dll
+D:\Git\GeoSOS\Code\GIS\GIS.FrameWork\obj\Debug\GIS.FrameWork.pdb
+D:\Git\GeoSOS\OutPut\Library\GIS\GIS.FrameWork.dll
+D:\Git\GeoSOS\OutPut\Library\GIS\GIS.FrameWork.pdb
+D:\Git\GeoSOS\Code\GIS\GIS.FrameWork\obj\Debug\GIS.FrameWork.csprojResolveAssemblyReference.cache
